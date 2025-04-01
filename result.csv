@@ -1,0 +1,466 @@
+S. No,Catalyst Name,Sub-Catalyst Name,Method ofsynthesis,PH,Temp,Time,Dried,Annealing,H2 via EC/ PEC/ PC,Electrolyte (pH),Current Density,Overpotential @10 mA.cm-2,Stability,H2 evolution (mmol),Efficiency,Cu type,Ref
+1.0,CuFeS2/rGO,CuS,,,,,,,EC,1 M KOH,- 210 mA.cm-2 @ -0.6 V (RHE),181.0,,,,Cu as enity-metal,https://doi.org/10.1021/acsanm.3c00056
+,,FeS2,,,,,,,EC,1 M KOH,- 225 mA.cm-2 @ -0.6 V (RHE),193.0,,,,Cu as enity-metal,
+,,CuFeS2,hydrothermal method,,160 °C,16 h,80 °C @ 12 h,,EC,1 M KOH,- 208 mA.cm-2 @ -0.6 V (RHE),168.0,,,,Cu as enity-metal,
+2.0,CuNiS,,chemical bath deposition.,,,,,,EC,0.1 M KOH,-400 mA/cm2 @ -0.45 V (RHE),99.0,50 h,,high,Cu as enity-metal,https://doi.org/10.1016/j.jcis.2021.07.145
+3.0,CuCo2S4 NWs,Cu2S/NF,,,,,,,EC,1 M KOH,-100 mA/cm2 @ -0.23 V (RHE),140.0,,,,Cu as enity-metal,https://doi.org/10.1021/acssuschemeng.8b02155
+,,CuCo2S4/NF,hydrothermal approach,, 120 °C,6 h ,room temp,8 h at 160 °C,EC,1 M KOH,-100 mA/cm2 @ -0.14 V (RHE),65.0, 10 h,,high,Cu as enity-metal,
+,,Ni3S2/NF,,,,,,,EC,1 M KOH,-12 mA/cm2 @ -0.25 V (RHE),240.0,,,,Cu as enity-metal,
+,,Co3S4/NF,,,,,,,EC,1 M KOH,-30 mA/cm2 @ -0.25 V (RHE),190.0,,,,Cu as enity-metal,
+4.0,Cu2S@NF,Cu@NF, electrodeposition,,,,,,EC,1 M KOH,-100 mA/cm2 @ -0.2 V (RHE),118.0,20 h,,,Cu as enity-metal,https://doi.org/10.1016/j.ijhydene.2022.03.052
+,,Cu2S@NF @0.1V,in-situsynthesis,,,,,,EC,1 M KOH,-150 mA/cm2 @ -0.1 V (RHE),117.0,20 h,,,Cu as enity-metal,
+,,Cu2S@NF @0.2V,in-situsynthesis,,,,,,EC,1 M KOH,-150 mA/cm2 @ -0.2 V (RHE),105.0,20 h,,,Cu as enity-metal,
+,,Cu2S@NF @0.3V,in-situsynthesis,,,,,,EC,1 M KOH,-150 mA/cm2 @ -0.3 V (RHE),128.0,20 h,,,Cu as enity-metal,
+,,Ni foam,,,,,,,EC,1 M KOH,-45 mA/cm2 @ -0.25 V (RHE),194.0,20 h,,,Cu as enity-metal,
+5.0,Cu3P/CF,Cu3P/CF,Phosphorization of the CuO/CF electrode,,300 °C,60 min,room temp,,EC,1.0 M KOH,-160 mA/cm2 @ -0.38 V,210.0,10h,,good,Cu as enity-metal,https://doi.org/10.1021/acs.jpcc.7b08365
+,,CF,,,,,,,EC,1.0 M KOH,-25 mA/cm2 @ -0.5 V,447.0,10h,,poor,Cu as enity-metal,
+6.0,Cu3P/CF,Cu3P/CF,,,300 °C,120 min,room temp,400 °C @ 120 min,EC,0.1 M KOH,-80 mA/cm2 @ -0.4 V (RHE),140.0,20 h,,,Cu as enity-metal,https://doi.org/10.1021/acsami.6b06251
+,,CF,,,,,,,EC,0.1 M KOH,-20 mA/cm2 @ -0.6 V (RHE),180.0,,,,Cu as enity-metal,
+,,Pt  cathode,,,,,,,EC,0.1 M KOH,-35 mA/cm2 @ -0.2 V (RHE),41.0,,,,Cu as enity-metal,
+7.0,CuSe/NF,Cu/NF,heating of Copper(II) acetate monohydrate (300 mg) in presence of H2,,300 °C,2 h,60 °C,,EC,0.1 M KOH,-100 mA/cm2 @ -0.32 V (RHE),220.0,,,,Cu as enity-metal,10.1002/cssc.202000445
+,,CuO/NF,heating of Copper(II) acetate monohydrate (300 mg) in presence of O2,,300 °C,2 h,60 °C,,EC,0.1 M KOH,-100 mA/cm2 @ -0.38 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+,,CuSe/NF,electrophoretic deposition,,500 °C,4 h,300 °C for 20h,900 °C for 5 h,EC,0.1 M KOH,-100 mA/cm2 @ -0.25 V (RHE),162.0,10 h,,high,Cu as enity-metal,
+8.0,Cu3P@NF,Cu3P@NF,hydrothermal method on Ni foam,,120 °C ,6 h,,350 °C for 1 h,EC,0.1 M KOH,50 mA/cm2 @ -0.25 V (RHE),105.0,24 h,1100 mmol @60 min ,high,Cu as enity-metal,10.1021/acsami.6b10983
+9.0,Cu3P nanocubes,Cu3P nanocubes,low-temperature thermal annealing process,,40 °C,30 min,45 °C for 24 h,300 °C for 2 h,EC,0.5 M H2SO4,-95 mA/cm2 @ -0.6 V (RHE),145.0,100 cycles,,high ,Cu as enity-metal,https://doi.org/10.1039/C5RA24427G
+,,Cu2O electrodes,,,,,,,EC,0.5 M H2SO5,-30 mA/cm2 @ -0.6 V (RHE),385.0,,,poor,Cu as enity-metal,
+10.0,Cu3P/N–C,,one-step facile and non-toxic process,,360 °C ,36 min,50 °C for 12 h,360 °C for 12 h,EC,1 M KOH,-105 mA/cm2 @ -0.35 V (RHE),211.1,24 h,,,Cu as enity-metal,10.1039/D0SE00923G
+11.0,Cu3P@C,Cu3P@C,one-pot rapid reaction,,425 °C,1 h,60 °C,,EC,0.5 M H2SO4,-100 mA/cm2 @ -0.3 V (RHE),203.0,20 h,,high,Cu as enity-metal,https://doi.org/10.1557/jmr.2017.401[Opens in a new window]
+,,Cu3P,phosphidation reaction process,,400 °C,200 min,60 °C,,EC,0.5 M H2SO4,-100 mA/cm2 @ -0.38 V (RHE),263.0,20 h,,,Cu as enity-metal,
+12.0,Cu2S-Ni3S2,Cu2S-Ni3S2/NF,hydrothermalsynthesis,,180 °C ,12 h,60 ℃,,EC,0.1 M KOH,-275 mA/cm2 @ -0.4 V (RHE),149.0,25 h,,,Cu as enity-metal,https://doi.org/10.1002/slct.202000026
+,,Ni3S2/NF,hydrothermalsynthesis,,180 °C ,12 h,60 ℃,,EC,1 M KOH,-200 mA/cm2 @ -0.45 V (RHE),198.0,25 h,,,Cu as enity-metal,
+13.0,Cu3N–CuO,Cu3N/NF,Insitu Formation,,300 °C,2 h,60 ℃,,EC,0.1 M KOH,-300 mA/cm2 @ -0.4 V (RHE),118.0,14 h,3.5ml in 50 h,,Cu as enity-metal,https://doi.org/10.1021/acsenergylett.9b00091
+,,Cu3N/FTO,Insitu Formation,,300 °C,2 H,60 ℃,,EC,0.1 M KOH,-30 mA/cm2 @ -0.31 V (RHE),165.0,,,,Cu as enity-metal,
+14.0,CuCo2O4 ,CCOns,Hydrothermal treatment,,120 °C,6 h,room temp,,EC,0.1 M KOH,-60 mA/cm2 @ -0.21 V (RHE),115.0,30 h,,high,Cu as enity-metal,https://doi.org/10.1002/admi.201901515
+,,CCOc,Hydrothermal treatment,,120 °C,6 h,room temp,,EC,0.1 M KOH,-60 mA/cm2 @ -0.25 V (RHE),145.0,,,,Cu as enity-metal,
+,,CCOg,Hydrothermal treatment,,120 °C,6 h,room temp,,EC,0.1 M KOH,-60 mA/cm2 @ -0.28 V (RHE),175.0,,,,Cu as enity-metal,
+,,CCOas,Hydrothermal treatment,,120 °C,6 h,room temp,,EC,0.1 M KOH,-50 mA/cm2 @ -0.3 V (RHE),200.0,,,,Cu as enity-metal,
+15.0,Cu2-xS@Ru NPs,Cu2-xS@Ru NPs thick ,facile dissociationsynthesis,,70 °C,5 min,room temp,,EC,1 M KOH,-30 mA/cm2 @ -0.15 V (RHE),82.0,2000 cycles,,,Cu as enity-metal,https://doi.org/10.1002/smll.201700052
+,,Cu2-xS@Ru NPs thick ,facile dissociationsynthesis,,70 °C,5 min,room temp,,EC,0.5 M H2SO4,-30 mA/cm2 @ -0.2 V (RHE),129.0,,,,Cu as enity-metal,
+,,Cu2-xS@Ru NPs thin,facile dissociationsynthesis,,70 °C,5 min,room temp,,EC,1 M KOH,-30 mA/cm2 @ -0.2 V (RHE),110.0,2000 cycles,,,Cu as enity-metal,
+,,Cu2-xS@Ru NPs thin,facile dissociationsynthesis,,70 °C,5 min,room temp,,EC,0.5 M H2SO4,-30 mA/cm2 @ -0.23 V (RHE),161.0,,,,Cu as enity-metal,
+16.0,"CuBi2O4, CBO",d-CBO (dense CBO),Evaporation decomposition controlledsynthesis,,50 ℃ ,12 h,, 550 ℃ for 2 h,PEC,0.5 M NaOH (pH 13.5),-1.16 mA/cm2 @ 0.4 V (RHE),189.51316415364033,30 min,,,Cu as enity-metal,https://doi.org/10.1016/j.nanoen.2020.105568
+,,"p-CBO (porous, 420 nm thick)",Evaporation decomposition controlledsynthesis and then add polyethylene glycol,,50 ℃ ,12 h,,550 ℃ for 2 h,PEC,0.5 M NaOH (pH 13.5),-0.37 mA/cm2 @ 0.4 V (RHE),186.01715471835112,30 min,,,Cu as enity-metal,
+,,d-CBO/CuO,Evaporation decomposition controlledsynthesis and coupling with CuO underlayer.,,50 ℃ ,12 h,,550 ℃ for 2 h,PEC,0.5 M NaOH (pH 13.5),-2.91 mA/cm2 @ 0.4 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+,,Pt/d-CBO/CuO,Evaporation decomposition controlledsynthesis.,,50 ℃ ,12 h,,550 ℃ for 2 h,PEC,0.5 M NaOH (pH 13.5),-3.49 mA/cm2 @ 0.4 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+17.0,CuV2O6,NB (bare copper vanadate),hydrothermal method,,180 °C,15 h,room temp,450 °C for 1 h,PEC,0.1 M Na borate buffer ( 9.3),120 mA/cm2 @ 1.2 V (RHE),189.44105395138456,,,,Cu as enity-metal,10.1021/acsami.0c06915
+,,NB 1 h 350 °C,hydrothermal method,,180 °C,15 h,room temp,450 °C for 1 h,PEC,0.1 M Na borate buffer ( 9.3),100 mA/cm2 @ 1.4 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+,,NB 2 h 350 °C,hydrothermal method,,180 °C,15 h,room temp,450 °C for 1 h,PEC,0.1 M Na borate buffer ( 9.3),80 mA/cm2 @ 1.4 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+,,NB 1 h 200 °C,hydrothermal method,,180 °C,15 h,room temp,450 °C for 1 h,PEC,0.1 M Na borate buffer ( 9.3),200 mA/cm2 @ 1.3 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+18.0,GO-incorporated Cu-MOF,Cu-MOF,modified Hummers and Offeman's method.,,120 °C,36 h,under vaccume,,EC,0.5 M H2SO4,-30 mA/cm2 @ -0.38 V (RHE),189.3689437491288,,,,Cu as enity-metal,https://doi.org/10.1002/adfm.201300510
+,,(GO 2 wt%) Cu-MOF,modified Hummers and Offeman's method.,,120 °C,36 h,under vaccume,,EC,0.5 M H2SO4,-30 mA/cm2 @ -0.3 V (RHE),186.01715471835112,100 cycles,,,Cu as enity-metal,
+,,(GO 4 wt%) Cu-MOF,modified Hummers and Offeman's method.,,120 °C,36 h,under vaccume,,EC,0.5 M H2SO4,-30 mA/cm2 @ -0.25 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+,,(GO 6 wt%) Cu-MOF,modified Hummers and Offeman's method.,,120 °C,36 h,under vaccume,,EC,0.5 M H2SO4,-30 mA/cm2 @ -0.22 V (RHE),186.01715471835112,100 cycles,,,Cu as enity-metal,
+,,(GO 8 wt%) Cu-MOF,modified Hummers and Offeman's method.,,120 °C,36 h,under vaccume,,EC,0.5 M H2SO4,-30 mA/cm2 @ -0.2 V (RHE),186.01715471835112,100 cycles,,,Cu as enity-metal,
+19.0,NiCuP,NiCu,bubble-templated electrodeposition,,,,,,EC,1 M KOH,-60 mA/cm2 @ -0.3 V (RHE),191.0,,,,Cu as enity-metal,https://doi.org/10.1039/C6NR09864A
+,,NiCuP,phosphidization,,300 °C,1 h,,,EC,1 M KOH,-500 mA/cm2 @ -0.26 V (RHE),42.0,120 h,"600 μmol @ 3h (1.6V)
+",,Cu as enity-metal,
+20.0, Ni/Cu/CF electrode,Ni/Cu/CF electrode,galvanostatic electrodeposition,5.97,room temp,20 min,,,EC,1 M KOH,-150 mA/cm2 @ -0.18 V (RHE),38.0,50 h,15 vol/ml in 20 min,,Cu as enity-metal,https://doi.org/10.1016/j.apcatb.2019.118392
+,,Cu/CF electrode,galvanostatic electrodeposition,,70 °C,20 min,,,EC,1 M KOH,-100 mA/cm2 @ -0.45 V (RHE),284.0,,,,Cu as enity-metal,
+,,Ni/CF electrode,galvanostatic electrodeposition,,room temp,20 min,,,EC,1 M KOH,-150 mA/cm2 @ -0.35 V (RHE),156.0,,,,Cu as enity-metal,
+21.0,Cu@Cu2OXS1-X NT,Cu/Cu2O NWs,,,60 °C,3 h,60 °C for 12 h,,,,,189.15261314236147,,,,Cu as enity-metal,https://doi.org/10.1016/j.apsusc.2019.01.244
+,,Cu/Cu2O/Cu2S NT-4,sulfurizing the as-prepared Cu/Cu2O NWs,,120 °C,4 h,vacuum oven,,EC,0.5 M H2SO4 (ph=3),-200 mA/cm2 @ -0.3 V (RHE),86.0,10 h,,,Cu as enity-metal,
+,,Cu/Cu2O/Cu2S NT-6,sulfurizing the as-prepared Cu/Cu2O NWs,,120 °C,4 h,vacuum oven,,EC,0.5 M H2SO4 (ph=3),-180 mA/cm2 @ -0.6 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+,,Cu/Cu2O/Cu2S NT-8,sulfurizing the as-prepared Cu/Cu2O NWs,,120 °C,4 h,vacuum oven,,EC,0.5 M H2SO4 (ph=3),-95 mA/cm2 @ -0.6 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+,,Cu/Cu2O/Cu2S NT-10,sulfurizing the as-prepared Cu/Cu2O NWs,,120 °C,4 h,vacuum oven,,EC,0.5 M H2SO4 (ph=3),-110 mA/cm2 @ -0.6 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+22.0,Cu2S micro-hexagons,,hydrothermal method,,180 °C,12 h,60 °C,,EC,1 M KOH (ph=14),-98 mA/cm2 @ -0.58 V (RHE),330.0,24 h,,,Cu as enity-metal,https://doi.org/10.1016/j.jsamd.2020.06.004
+23.0,Cu2S micro-hexagons,,hydrothermal method,,180 °C,12 h,60 °C,,EC,0.5 M H2SO4 (ph=0),-450 mA/cm2 @ -0.5 V (RHE),312.0,24 h,,,Cu as enity-metal,
+24.0,Pyrite CuNiS,TA+MPA-100°C-2h,chemical bath deposition,,60°C,2 h,80°C for 6h,,EC,1 M KOH ,-700 mA/cm2 @ -0.45 V (RHE),96.0,50 h,,,Cu as enity-metal,https://doi.org/10.1016/j.ijhydene.2023.11.273
+,,TA+MPA-150°C-2h,chemical bath deposition,,60°C,2 h,80°C for 6h,,EC, 1 M KOH ,-470 mA/cm2 @ -0.45 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+25.0,Cu2MoS4 nanotube,CMS-30min,hydrothermal treatment,,120 °C,30 min,,,EC,0.5 M H2SO4 (pH = 0.76),-5 mA/cm2 @ -0.45 V (RHE),420.0,,,,Cu as enity-metal,https://doi.org/10.1002/asia.202000344
+,,CMS-3h,hydrothermal treatment,,120 °C,3 h,,,EC,0.5 M H2SO4 (pH = 0.76),-10 mA/cm2 @ -0.45 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+,,CMS-6h,hydrothermal treatment,,120 °C,6 h,,,EC,0.5 M H2SO4 (pH = 0.76),-60 mA/cm2 @ -0.45 V (RHE),300.0,,,,Cu as enity-metal,
+,,CMS-9h,hydrothermal treatment,,120 °C,9 h,,,EC,0.5 M H2SO4 (pH = 0.76),-15 mA/cm2 @ -0.45 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+26.0,CuNi3S2,CuNi3S2/NF,Ni foams pretreated in CuCl2solution,,,,24 h at 60 °C,,EC,1 M KOH,-210 mA/cm2 @ -0.25 V (RHE),121.0,2000 cycles,9 ml @ 30 min,,Cu as enity-metal,10.1039/D0NR07275C
+,,Ni3S2,,,,,,,EC,1 M KOH,-190 mA/cm2 @ -0.3 V (RHE),156.0,2000 cycles,,,Cu as enity-metal,
+,,Ni3S2,,,,,,,EC,1 M PBS,-130 mA/cm2 @ -0.8 V (RHE),200.0,2000 cycles,,,Cu as enity-metal,
+,,CuNi3S2/NF,Ni foams pretreated in CuCl2solution,,,,24 h at 60 °C,,EC,1 M PBS,-175 mA/cm2 @ -0.5 V (RHE),228.0,2000 cycles,,,Cu as enity-metal,
+27.0,Cu2–xTe,Cu2–xTe/hyd,Hydrothermalsynthesis,,180 °C,3 h,80 °C for 5 h,,EC,0.5 M H2SO4,-30 mA/cm2 @ -0.45 V (RHE),347.0,12 h,~100 μmol in 30 min,,Cu as enity-metal,https://doi.org/10.1021/acs.inorgchem.0c01648
+,,Cu2–xTe/wet,wet chemical method,,mild heating conditions,30 min,8 h at 80 °C,,EC,0.5 M H2SO4,-30 mA/cm2 @ -0.52 V (RHE),432.0,250 cycles,,,Cu as enity-metal,
+,,Pt foil,,,,,,,EC,0.5 M H2SO4,-30 mA/cm2 @ -0.11 V (RHE),69.0,250 cycles,,,Cu as enity-metal,
+28.0,Cu2S,Cu2S-80 °C insea water,hydrothermal technique,,60°C,50 min,50 °C for 5 h,80 °C for 50 min,EC,1 M KOH,-25 mA/cm2 @ -0.58 V (RHE),445.0,10 h,,86.70%,Cu as enity-metal,https://doi.org/10.1016/j.fuel.2022.124073
+,,Cu2S-70 °C insea water,hydrothermal technique,,60°C,50 min,50 °C for 5 h,70 °C for 50 min,EC,1 M KOH,-25 mA/cm2 @ -063 V (RHE),580.0,10 h,,,Cu as enity-metal,
+,,Cu2S-60 °C insea water,hydrothermal technique,,60°C,50 min,50 °C for 5 h,60 °C for 50 min,EC,1 M KOH,-25 mA/cm2 @ -0.68 V (RHE),534.0,10 h,,,Cu as enity-metal,
+,,Cu2S-60 °C in fresh water,hydrothermal technique,,60°C,50 min,50 °C for 5 h,60 °C for 50 min,EC,1 M KOH,-200 mA/cm2 @ -0.48 V (RHE),354.0,10 h,,,Cu as enity-metal,
+,,Cu2S-70 °C in fresh water,hydrothermal technique,,60°C,50 min,50 °C for 5 h,70 °C for 50 min,EC,1 M KOH,-200 mA/cm2 @ -0.43 V (RHE),320.0,10 h,,,Cu as enity-metal,
+,,Cu2S-80 °C in fresh water,hydrothermal technique,,60°C,50 min,50 °C for 5 h,80 °C for 50 min,EC,1 M KOH,-200 mA/cm2 @ -0.28 V (RHE),141.0,10 h,9 ml in 1 h,99.23%,Cu as enity-metal,
+29.0,CuCo2S4,CuCo2O4-1,"one pot hydrothermal method,solvent composition of 100 vol% water",,160 °C,6 h,80 °C @ overnight,350 C for 2 h,EC,3M KOH,-90 mA/cm2 @ -0.35 V (RHE),188.57573152431527,,,,Cu as enity-metal,https://doi.org/10.1016/j.jallcom.2019.01.012
+,,CuCo2O4-2,"one pot hydrothermal method,solvent composition of 50/50 vol% water/ethanol",,160 °C,6 h,80 °C @ overnight,350 C for 2 h,EC,3M KOH,-110 mA/cm2 @ -0.35 V (RHE),186.01715471835112,,,,Cu as enity-metal,
+,,CuCo2O4-3,"one pot hydrothermal method,solvent composition of 100 vol% ethanol",,160 °C,6 h,80 °C @ overnight,350 C for 2 h,EC,3M KOH,-160 mA/cm2 @ -0.3 V (RHE),158.0,24 h,,,Cu as enity-metal,
+30.0,Cu2O/g-C3N4,,hydrothermal route,,180 °C,24 h,,550 °C for 4 h,EC,1 M NaOH,-4.5 mA/cm2 @ -0.1 V (RHE),148.7,100 cycles,,,Cu as enity-metal,https://doi.org/10.1016/j.diamond.2020.107899
+31.0,Cu1.94S-CdS and Cu1.94S-ZnS ,Cu1.94S-CdS-Cu1.94S,one-pot colloidalsynthesis,,170 °C,30 min,room temp,,PC,,,188.43151111980373,4 h,22.06 mmol g–1 h–1,,Cu as enity-metal,https://doi.org/10.1021/acsami.1c18020
+,,Cu1.94S-ZnS-Cu1.94S,one-pot colloidalsynthesis,,170 °C,30 min,room temp,,PC,,,186.01715471835112,4 h,5.99 mmol g–1 h–1,,Cu as enity-metal,
+32.0,Cuf@Cu2Se/CoSe2,Cuf@Cu2Se/CoSe2,electrochemical deposition,,,60 min,,,EC,1.0 M KOH,10 mA cm−2@1.56 V,110.0,7 h,,99.90%,Cu as enity-metal,https://doi.org/10.1021/acsaem.1c03497
+,,Pt/C,,,,,,,,1.0 M KOH,100 mA cm–2  ,668.0,,,,Cu as enity-metal,
+,,Cu2Se-CoSe2/Cu foil,,,,,,,,1.0 M KOH,10 mA cm–2 ,280.0,,,,Cu as enity-metal,
+,,Cuf@Cu2Se,,,,,,,,1.0 M KOH,10 mA cm–2 ,290.0,,,,Cu as enity-metal,
+,,Cuf,,,,,,,,1.0 M KOH,10 mA cm–2,397.0,,,,Cu as enity-metal,
+33.0,Cu3Se2@CoSe2–NiSe2/PNCF,Cu3Se2@CoSe2–NiSe2/PNCF,facile hydrothermal method,,180 °C,24h,40 °C for 1 h,,EC,1.0 M KOH,10 mA cm–2 @-1.3V,42.0,1000 cycles,∼1.52,,Cu as enity-metal,https://doi.org/10.1021/acssuschemeng.0c05985
+,,Cu@PNCF,,,,,,,,1.0 M KOH,10 mA cm–2 ,64.0,,,,Cu as enity-metal,
+,,Pt/C,,,,,,,,1.0 M KOH,10 mA cm–2 ,38.0,,,,Cu as enity-metal,
+,,RuO2,,,,,,,,1.0 M KOH,10 mA cm–2 ,76.0,,,,Cu as enity-metal,
+34.0,Cu0.3Co2.7P/NC,Cu0.3Co2.7P/NC,"bimetallic cobalt-based phosphide zeolitic 
+imidazolate framework (BCP-ZIF)",13.5,900oC,3 h,50°C ,,EC,1.0 m KOH,10 mA cm–2,128.41708045418352,1000 cycles,,,Cu as enity-metal,https://doi.org/10.1002/aenm.201601555
+35.0,NiS/CuInS2/NiO,NiS/CuInS2/NiO,dip-coating method,,,,,500 °C for 1 h,PEC,0.1 M Na2SO,−2.23 mA/cm2 @ −0.6 V vs RHE,188.14307031078064,5h,"8.89 μmol·cm−2 ·h−1 to 
+4.35 μmol·cm−2 ·h−1",,Cu as enity-metal,https://doi.org/10.1021/acssuschemeng.9b05936
+,,CuInS2,A facial hydrothermal method,,180 °C,12 h,air,,PEC,0.1 M Na2SO,0.51 mA/cm2 at 0 V vs RHE,186.01715471835112,5 h,,11.40%,Cu as enity-metal,
+,,CuInS2 NSs,hydrothermal method,,,,,,PEC,0.1 M Na2SO,−0.81 mA/cm2 at −0.6 V vs RHE,186.01715471835112,,,,Cu as enity-metal,
+,,NiS/ZnIn2S4,two-step method,,,,,,PEC,0.1 M Na2SO,−1.38 mA/cm2 at −0.6 V vs RHE,186.01715471835112,,5.0 μmol·h at 420 nm,,Cu as enity-metal,
+,,CuInS2/NiO,hydrothermal method,,,,,,PEC,0.1 M Na2SO,,186.01715471835112,,,,Cu as enity-metal,
+36.0,ZnO/ZTO/CIGS/In2S3,ZnO/ZTO/CIGS/In2S3,spin coating method,,,,,,PEC,0.1M NaOH,6.4 mA cm−2@0.4 V(vs Ag/AgCl),188.07096010852487,2 h,,"ABPE- 4.2%
+IPCE -57%",Cu as enity-metal,https://doi.org/10.1021/acssuschemeng.0c04846
+,,ZnO-NS Thin Films,hydrothermal chemical bath deposition method,4.8,300 °C,30 min,dried in air,,PEC,1.0 M KOH,,186.01715471835112,,,,Cu as enity-metal,
+37.0,Cu2S–Se@Cu,Cu2S–Se@Cu,wet-chemical and hydrothermal,,,,,,EC,0.1M NaOH,100 mA cm−2,315.0,,,97.16%,Cu as enity-metal,https://doi.org/10.1039/D2CY01336C
+,,Cu2S-Wet,,,,,,,EC,0.5 M H2SO4,100 mA cm−2,315.0,500 cycles,,,Cu as enity-metal,
+,,Cu2S-Hyd,,,,,,,EC,0.5 M H2SO4,100 mA cm−2,374.0,500 cycles,,,Cu as enity-metal,
+,,Cu2S–Se-Wet,,,,,,,EC,0.5 M H2SO4,100 mA cm−2,453.0,500 cycles,,,Cu as enity-metal,
+,,Cu2S–Se-Hyd,,,,,,,EC,0.5 M H2SO4,100 mA cm−2,462.0,500 cycles,,,Cu as enity-metal,
+38.0,Cu2MoS4,Cu2MoS4,simple precipitation method,7,135 C,1 day,air-dried,,EC,0.1 M phosphate buffer,"0.040 mA cm−2 @-0.48 V vs.
+NHE (-0.07 V vs. RHE)",187.92673970401333,,,,Cu as enity-metal,DOIhttps://doi.org/10.1039/C2EE22611A
+39.0,Cu2S/Ni3S2@Ni-BDC,Cu2S/Ni3S2@Ni-BDC,Hydrothermal and Electrodeposition,12,120 °C,5 h,50 °C,,EC,1 M KOH,10 mA cm−2,63.0,12 h,,97%,Cu as enity-metal,https://doi.org/10.1016/j.ijhydene.2023.06.322
+,,Cu2S/Ni3S2@Ni-BDC,,,,,,,EC,1 M KOH,20 mA cm−2@1.55 V,145.0,,,,Cu as enity-metal,
+,,Cu2O@Ni-BDC,Electrodeposition,12,35 °C,700s,50 °C for 8 h,,EC,0.1 M NaOH,voltage @−1.4 V,186.01715471835112,,,,Cu as enity-metal,
+40.0,CoSx/CuSx@NF ,CoSx/CuSx@NF ,electrodeposition,7,room temp,60 hrs,,,EC,1 M KOH,10 mA cm−2,113.0,70 h,,,Cu as enity-metal,https://doi.org/10.1016/j.electacta.2023.142861
+,,CoSx/CuSx@NF ,electrodeposition technique,,,,,,EC,,500 mA cm−2,200.0,,,,Cu as enity-metal,
+41.0,CuCo-MOF,CuCo-MOF,hydrothermal,13.6,120 °C,6 h,60 °C for 12 h.,,EC,1 M KOH,10 mA cm–2(1.49 V ),62.0,,,95%,Cu as enity-metal,https://doi.org/10.1021/acssuschemeng.9b04739
+,,Cu-Co(CO3)(OH) nanobelts (Cu-CCO),hydrothermal method,,25 °C,10 min,60 °C for 12 h,,EC,3 M hydrochloric acid,,186.01715471835112,,,,Cu as enity-metal,
+,,Cu-Co9S8,,,120 °C,"4, 6, or 8 h",overnight at 60 °C,,EC,,,186.01715471835112,,,,Cu as enity-metal,
+42.0,Cu2S@Ni,Cu2S@Ni,electrodeposition,8.5,,1 h,60 ◦C,,EC,1 M NaOH,~500 mA/cm2,200.0,150 h,,>90%,Cu as enity-metal,https://doi.org/10.1016/j.jpowsour.2021.230235
+,,Cu2O@Ni ,electrodeposition,,,1 h,60 ◦C,,EC,1 M NaOH,500 mA cm−2,186.01715471835112,,,,Cu as enity-metal,
+,,pure Cu2S,hydrothermal,,120 °C ,5 h,,,EC,1 M NaOH,500 mA cm−2,530.0,,,,Cu as enity-metal,
+,,Cu2O,hydrothermal,,400 °C,120 min,,,EC,1 M NaOH,,186.01715471835112,,,,Cu as enity-metal,
+43.0,CuInS2/SnS2/NF,CuInS2/SnS2/NF,hydrothermal,,,,,,EC,1 M KOH,100 mA/cm2(1.79 V),337.0,,,,Cu as enity-metal,https://doi.org/10.1016/j.electacta.2021.139802
+,,CuInS2/SnS2/NF,hydrothermal,,,,,,EC,1 M KOH,10 mA/cm2,78.0,,,,Cu as enity-metal,
+,,CuInS2/SnS2/NF,hydrothermal,,,,,,EC,1 M KOH,20 mA/cm2,191.0,,,,Cu as enity-metal,
+44.0,Cu-TPA,Cu-TPA,electrodeposition,9.2,,2 h,dried in air,,EC,1 M KOH,0.75 mA/cm2,128.02264509829243,good,,high purity,Cu as enity-metal,https://doi.org/10.1021/cs501480s
+45.0,CuCoO-NWs,CuCoO-NWs,hydrothermal method,,120 °C ,5h,60 °C,300 °C,EC,1 M KOH.,10 mA cm−2(1.61 V),250.0,72 h,,,Cu as enity-metal,https://doi.org/10.1002/adfm.201604804
+46.0,Cu2ZnSnS4,Cu2ZnSnS4,sonochemical method,,,1h,,170 °C(2h),EC,0.5M H2SO4, 125 mA/cm2(0.35 V),300.0,,,,Cu as enity-metal,https://doi.org/10.1016/j.apsusc.2017.03.262
+47.0,Cu-CoP NAs/CP,Cu-CoP NAs/CP,"simple hydrothermal method and followed 
+by insitu phosphorization",7,,,electric vacuum,,EC,1 M pbs ,10 mA cm−2(1.72 V),81.0,,,high-purity,Cu as enity-metal,https://doi.org/10.1016/j.apcatb.2019.118555
+48.0,Cu-Ni3S2/Co3S4,Cu-Ni3S2/Co3S4,solvothermal reaction method,,,25 h,25 h,,EC,1 M KOH,"10 mA cm−2(1.49 V)
+",79.0,,,95 %–98 %,Cu as enity-metal,https://doi.org/10.1016/j.apcatb.2021.120225
+,,Ni3S2,solvothermal method andsimplesulfuration process,,,,,,EC,1 M KOH,"10 mA cm−2
+",288.0,,,,Cu as enity-metal,
+,,Co3S4,solvothermal reaction method,,,,,,EC,1 M KOH,"10 mA cm−2
+",219.0,,,,Cu as enity-metal,
+,,Ni3S2/Co3S4,solvothermal reaction method,,,,,,EC,1 M KOH,"10 mA cm−2
+",176.0,,,,Cu as enity-metal,
+,,Fe-Ni3S2/Co3S4,solvothermal reaction method,,,,,,EC,1 M KOH,"10 mA cm−2
+",170.0,,,,Cu as enity-metal,
+,,Zn-Ni3S2/Co3S4,solvothermal reaction method,,,,,,EC,1 M KOH,"10 mA cm−2
+",132.0,,,,Cu as enity-metal,
+,,MoNi3S2/Co3S4,solvothermal reaction method,,,,,,EC,1 M KOH,"10 mA cm−2
+",142.0,,,,Cu as enity-metal,
+49.0,Cu/TiO2,Cu/TiO2,hydrothermal method,11,150 °C,300 min,,,PC,1 M KOH,,187.13352747919976,,,high,Cu as enity-metal,https://doi.org/10.1016/j.ijhydene.2015.03.019
+,,CuT32,hydrothermal method,>10,,300 min,,,PC,NaOH,,186.01715471835112,,2114 mmol ,,Cu as enity-metal,
+,,CuT32,hydrothermal method,5,,300 min,,,PC,glycerol,,186.01715471835112,,2866 mmol,,Cu as enity-metal,
+,,CuT32,hydrothermal method,10.5,,300 min,,,PC,H2Oe NaOH- glycerolsolutions,,186.01715471835112,,10571 mmol,,Cu as enity-metal,
+50.0,Cu-CoP NRAs/CC,Cu-CoP NRAs/CC,hydrothermal method,,,,60 °C for 6 h,,EC,1.0 M KOH,10 mA cm–2,44.0,40 h,,impurity,Cu as enity-metal,https://doi.org/10.1021/acsaem.8b00609
+,,Pt/C,hydrothermal method,7,,,,,EC,1M KOH,10 mA cm-2,49.0,,,,Cu as enity-metal,
+,,CoP NRAs/CC,hydrothermal method,7,,,,,EC,1M KOH,10 mA cm-2,112.0,,,,Cu as enity-metal,
+,,Cu3P NRA/CF,hydrothermal method,7,,,,,EC,1M KOH,10 mA cm-2,224.0,,,,Cu as enity-metal,
+,,bare CC,hydrothermal method,7,,,,,EC,1M KOH,10 mA cm-2,324.0,,,,Cu as enity-metal,
+51.0,CuxNi1-xS,CuxNi1-xS,hydrothermal,,,,,,EC,1.0 M KOH,10 mA/cm2(1.74 V),152.0,high,,99 %,Cu as enity-metal,https://doi.org/10.1016/j.jelechem.2023.117648
+52.0,Ni3S2/Cu–NiCo LDH,Ni3S2/Cu–NiCo LDH,hydrothermal,,,,,,EC,1 M KOH,10 mA cm–2(1.75 V),156.0,12 h,,,Cu as enity-metal,https://doi.org/10.1039/D1TA08148A
+53.0,Cu-NiSe,Cu-NiSe,hydrothermal process,13.6,350 oC(2 h),50 °C,,,EC,1.0 M KOH, 10 mA cm−2(1.50V),77.0,14 h,,,Cu as enity-metal,https://doi.org/10.1021/acssuschemeng.9b05514
+,,Cu–NiSe/NF,hydrothermal process,,,,,,EC,1.0 M KOH,50 mA cm-2,290.0,,,,Cu as enity-metal,
+54.0,CuBi2O4/Cu-MOF films,CuBi2O4/Cu-MOF films,chemical bath deposition,6.8,,,,0.1 M KHCO3,PEC,,-0.5 mA cm−2(0.4V),186.7729764679209,,,80%,Cu as enity-metal,https://doi.org/10.1016/j.matre.2023.100229
+55.0,La5Ti2CuS5O7,La5Ti2CuS5O7,abricated by the PT method,,,,,,PEC,,0.80 mA cm−2(0 V),186.70086626566513,,,,Cu as enity-metal,10.1039/C4EE00091A
+56.0,Cu@GD NA/CF,Cu@GD NA/CF,facileself-catalyzed growth method,,,20 h,80 °C for 2 h.,,,,10 mA cm–2,79.0,,,high,Cu as enity-metal,https://doi.org/10.1016/j.nanoen.2016.09.005
+57.0,MoS2/Cu,MoS2/Cu,fabrication method ,,,,(~40 °C) for 12 h,400 °C,,,10 mAcm−2(~1.508 V),160.0,3000 cycles,,ultra-high,Cu as enity-metal,https://doi.org/10.1016/j.matdes.2021.109674
+,,MoS2/Cu2O,fabrication method ,,,,,,,,10 mA cm-2,200.0,2000 cycles,,,Cu as enity-metal,
+,,MoS2,fabrication method ,,,,,,,,10 mA cm-2,352.0,,,,Cu as enity-metal,
+58.0,Cu3P@NF,Cu3P@NF,hydrothermal method,13.6,,,,,EC,1.0 M KOH,10 mA cm–2(1.67 V),105.0,,,>98%,Cu as enity-metal,https://doi.org/10.1021/acsami.6b10983
+,,Pt/C@NF,hydrothermal method,,,,,,EC,1.0 M KOH,50mA cm-2,126.11238799283156,,,,Cu as enity-metal,
+,,Cu3P@NF after,hydrothermal method,,,,,,EC,1.0 M KOH,50mA cm-2,126.06905465949824,,,,Cu as enity-metal,
+,,Cu3P@NF first LSV,hydrothermal method,,,,,,EC,1.0 M KOH,50mA cm-2,186.01715471835112,,,,Cu as enity-metal,
+,,NF,hydrothermal method,,,,,,EC,1.0 M KOH,50mA cm-2,125.98238799283156,,,,Cu as enity-metal,
+59.0,Meso-Cu-BTC,Meso-Cu-BTC,solvothermal,,,,170 °C for  8 h,,EC,1 M NaOH,6.0 mA cm−2 exchange current density,89.32,high,,,Cu as enity-metal,10.1088/2053-1591/abb056
+60.0,Cr–Cu/CoOx,Cu/CoOx,electrodeposition,,,24 h,,300 °C for 2 h,EC,1 M KOH,10 mA cm–2( 1.51 V),167.0,good,,,Cu as enity-metal,https://doi.org/10.1021/acsami.2c18799
+,,Cr–Cu,electrodeposition,,,,,,EC,1.0 M KOH,10 mA cm–2,88.0,,,,Cu as enity-metal,
+,,Cr–CoOx,electrodeposition,,,,,,EC,1.0 M KOH,10 mA cm–2,110.0,,,,Cu as enity-metal,
+,,Cr–Cu/CoOx,electrodeposition,,,,,,EC,1.0 M KOH,10 mA cm–2,21.0,,,,Cu as enity-metal,
+,,Pt/C,electrodeposition,,,,,,EC,1.0 M KOH,10 mA cm–2,25.0,,,,Cu as enity-metal,
+61.0,Cu3V2O8,Cu3V2O8,,9.2,,,300 °C for 2 min,425 °C for 1 h,PEC,1 M KOH,<0.025 mA/cm2,186.2682050521305,,,,Cu as enity-metal,https://doi.org/10.1021/cm504327f
+62.0,Ni-Cu,Ni-Cu,electrodeposition,,,,,,EC,1 M KOH,10 mA cm−2,186.1960948498747,50 h,,,Cu as enity-metal,https://doi.org/10.1016/j.apsusc.2021.150030
+63.0,Ni(Cu)/NF,Ni(Cu)/NF,electrodeposition,,,,,,EC,1 m KOH,10 mA cm−2,186.12398464761895,,,,Cu as enity-metal,https://doi.org/10.1002/smll.201704137
+64.0,Cu−Ni3S2/NF-1,Cu−Ni3S2/NF-1,two-step hydrothermal method,,,,,,EC,1 M KOH,10 mA cm−2 ,92.0,12 h,,,Cu as enity-metal,https://doi.org/10.1002/cctc.202001838
+,,Cu−Ni3S2/NF-4,,,,,,,EC,1 M KOH,50 mA cm−2,256.0,,,,Cu as enity-metal,
+,,Ni3S2/NF,,,,,,,EC,1 M KOH,10 mA cm−2 and 50 mA cm−2,210.0,,,,Cu as enity-metal,
+65.0,Ni(Cu)/NF,Ni(Cu)/NF,electrodeposition,4,,10 h,dry in air,,EC,1.0 M KOH,100 mA cm–2(0.41 V),86.0,long-termstability,,,Cu as enity-metal,https://doi.org/10.1021/acssuschemeng.8b01887
+66.0,CuCo2S4–WS2/NF,,facile hydrothermal,,190 °C,14 h,60 °C @3 h,,EC,1.0 M KOH,85 mA cm–2,202.0,,,,Cu as enity-metal,https://doi.org/10.1021/acsami.3c02943
+,,CuCo2S4,hydrothermally,,190 °C,14 h,60 °C @3 h,,EC,1.0 M KOH,120 mA cm–2,186.01715471835112,,,,Cu as enity-metal,
+,,WS2,hydrothermally,,190 °C,14 h,60 °C @3 h,,EC,1.0 M KOH,80 mA cm–2,186.01715471835112,,,,Cu as enity-metal,
+67.0,NiFe-LDH/Cu2S,,electrodeposition,,,,,,EC,1.0 M KOH,-1500 mA cm–2 @ 1.463 V,36.0,100 h,,high,Cu as enity-metal,https://doi.org/10.1021/acsanm.3c01555
+,,Cu2S,electrodeposition,,,,,,EC,1.0 M KOH,-1100 mA cm-2,186.01715471835112,,,,Cu as enity-metal,
+,,CF,electrodeposition,,,,,,EC,1.0 M KOH,-150 mA cm-2,186.01715471835112,,,,Cu as enity-metal,
+,,NiFe-LDH,electrodeposition,,,,,,EC,1.0 M KOH,-600 mA cm-2,186.01715471835112,,,,Cu as enity-metal,
+,,Pt/C,electrodeposition,,,,,,EC,1.0 M KOH,-1050 mA cm-2,186.01715471835112,,,,Cu as enity-metal,
+68.0,CoS/NiS@CuS,,hydrothermal and calcination method,7,,,,,EC,1.0 M KOH,10 mA cm−2 @ 1.51 V,110.0,,,,Cu as enity-metal,https://doi.org/10.1016/j.ijhydene.2023.03.296
+,,NiCoOOH@CuO,hydrothermal method,,,,,,,,,186.01715471835112,,,,Cu as enity-metal,
+69.0,Cu2S/MoS2/Pt,,hydrothermal method,,,,,,PEC,1.0 M Na2SO4,10 mA cm−2 @ 0.57 V,78.0,,,high,Cu as enity-metal,https://doi.org/10.1016/j.apcatb.2022.121540
+,,Cu2S,hydrothermal method,,,,,,,,,186.01715471835112,,,,Cu as enity-metal,
+70.0,Cu2FeSnS4-PVP,,solvothermal method,,,,70 °C(6h),450 °C(30m),EC,0.5 M H2SO4,-10 mA cm−2,410.0,,,,Cu as enity-metal,https://doi.org/10.1016/j.ijhydene.2021.08.033
+71.0,Cu11V6O26,,spray pyrolysis process,,300 °C,,,550°C(2h),PEC,1M Ag/AgCl,15 mA/cm2,185.5471030295727,,,,Cu as enity-metal,https://doi.org/10.1021/acsaem.2c01138
+72.0,Cu2CoSnS4,,deposition method,,,,,,EC,0.5 M H2SO4,-10 mA/cm2,41.9,18 h,,,Cu as enity-metal,https://doi.org/10.1016/j.surfin.2022.101807
+73.0,CuZr−3*,,chemical dealloying treatment,,25 °C,6 h,,,EC,0.5 M HF treatment,-100 mA/cm2,195.0,18 h,high,,Cu as enity-metal,https://doi.org/10.3390/catal12111378
+74.0,CuBi2O4,,facile drop-casting method,,450 °C,2h,,"400, 450, 500 °C",PEC,0.3 M K2SO4 and 0.2 M phosphate buffer (pH 6.65),−1.26 mA/cm at 0.6V,185.33077242280538,150 min,,limited effi,Cu as enity-metal,https://doi.org/10.1021/acs.chemmater.6b00830
+,,CuBi2O4/Pt,facile drop-casting method,,450 °C,2h,,450°C,PEC,0.3 M K2SO4 and 0.2 M phosphate buffer (pH 6.65),0.5 mA/cm2 at 0.4 V,186.01715471835112,,,,Cu as enity-metal,
+75.0,Cu2S,,deposition method,,room temperature,,,,PEC,0.5 M Na2SO4 and 0.1 M KH2PO4 at pH 5.0,7.0 mA cm–2 at −0.3 V vs RHE,185.2586622205496,90%,,scalable hydrogen evolution,Cu as enity-metal,https://doi.org/10.1021/acsenergylett.7b01326
+,,CdS,deposition method,,,,with air ,,PEC,0.5 M Na2SO4 and 0.1 M KH2PO4 at pH 5.0,7.0 mA cm–2 at −0.3 V vs RHE,186.01715471835112,,,,Cu as enity-metal,
+76.0,CuFe2O4,,solvothermal method,3,,,,400 °C for 1 h,PEC,1 M H2SO4,−0.139 mA/cm2 at 0 V,185.18655201829384,,,,Cu as enity-metal,https://doi.org/10.1021/acs.energyfuels.1c02090
+77.0,CuCo2Se4,,hydrothermal method,,145 °C,24h,room temperature for overnight.,,EC,1.0 M KOH,-50 mA cm–2 at -0.25 V,125.0,4.5h,,high,Cu as enity-metal,https://doi.org/10.1021/acsaem.0c00262
+,,CuCo2Se4 after chronoamperometry,,,,,,,,1.0 M KOH,-50 mA cm–2 at -0.09V,186.01715471835112,,,,Cu as enity-metal,
+78.0,CuBi2O4,,vertical deposition method,,,,,450 °C for 1 h,PEC,1 M H2SO4,-2.91 mA cm–2 at -0.4 V,185.0423316137823,120 min,,high,Cu as enity-metal,https://doi.org/10.1021/acsaem.2c00469
+,,IO-CBO-1,vertical deposition method,,150 °C,1h,,450 °C for 1 h,PEC,1 M H2SO4,-2.75 mA cm–2 at -0.4 V,186.01715471835112,120 min,,,Cu as enity-metal,
+,,IO-CBO-2,vertical deposition method,,,1h,,450 °C for 1 h,PEC,1 M H2SO4,-2.95 mA cm–2 at -0.39 V,186.01715471835112,120 min,,,Cu as enity-metal,
+,,IO-CBO-3,vertical deposition method,,,1h,,450 °C for 1 h,PEC,1 M H2SO4,-4.0 mA cm-2 at -0.4V,186.01715471835112,120 min,,,Cu as enity-metal,
+,,IO-CBO-4,vertical deposition method,,,1h,,450 °C for 1 h,PEC,1 M H2SO4,-4.0 mA cm-2 at -0.38V,186.01715471835112,120 min,,,Cu as enity-metal,
+,,IO-CBO-5,vertical deposition method,,,1h,,450 °C for 1 h,PEC,1 M H2SO4,-3.2 mA cm-1 at -0.4V,186.01715471835112,120 min,,,Cu as enity-metal,
+79.0,"Cu(In,Ga)S2",,KCN-H2S-free method,,≈30 °C/min,,,,PEC,0.5 M H2SO4 (pH 0.5),−5.25 mA/cm2 at -4V,184.97022141152652,,,∼20%,Cu as enity-metal,https://doi.org/10.1021/acsaem.9b00690
+,,"Cu(In,Ga)Se2",KCN-H2S-free method,,≈30 °C/min,,,350 °Cfor 60 min,PEC,0.5 M H2SO4 (pH 0.5),,186.01715471835112,,,,Cu as enity-metal,
+80.0,Cu2ZnSnS4 ,,DFT method,,,,,,PC,,,184.89811120927075,,high,,Cu as enity-metal,https://doi.org/10.1021/acs.jpcc.0c02103
+81.0,Cu2S,,solution-processed ion exchange reaction,,room temperature,,dried with air gun.,,EC,0.5 M Na2SO4 + 0.1 M KH2PO4,7.0 mA cm–2 at −0.3 V vs RHE,25.0,200 min,,scalable hydrogen evolution,Cu as enity-metal,https://doi.org/10.1021/acsenergylett.7b01326
+,,CdS,solution-processed ion exchange reaction,,room temperature,,,,EC,0.5 M Na2SO4 + 0.1 M KH2PO4,,186.01715471835112,,,,Cu as enity-metal,
+82.0,Cu2ZnSnS4 (CZTS) thin films,,chemical-bath-deposition (CBD) method,,,,,,PEC,,,184.7538908047592,,,higher,Cu as enity-metal,https://doi.org/10.1021/acs.jpcc.0c02103
+,,CZTS ML,chemical-bath-deposition (CBD) method,,,,,,PEC,,,186.01715471835112,,,higher,Cu as enity-metal,
+83.0,Cu3P NB/Cu,,Electrochemical impedancespectroscopy,,450 °C,30 min,dried with nitrogen gas flow,,EC,0.5 M H2SO4,-100 mA/cm-2 at -0.6V,252.0,1000 cycles,,excellent,Cu as enity-metal,https://doi.org/10.1021/acsomega.6b00366
+,,Pt/C,Electrochemical impedancespectroscopy,,450 °C,30 min,,,EC,0.5 M H2SO4,-100 mA/cm-2 at -0.1V,186.01715471835112,,,,Cu as enity-metal,
+,,Cu3P,Electrochemical impedancespectroscopy,,450 °C,30 min,room temperature,,EC,0.5 M H2SO4,-100 mA/cm-2 at -0.35V,120.0,,,,Cu as enity-metal,
+,,Cu,,,450 °C,30 min,,,EC,0.5 M H2SO4,-20 mA/cm-2 at -0.5V,186.01715471835112,,,,Cu as enity-metal,
+84.0,WO3/CuWO4/Ag,,hydrothermal method,,,,600 °C for 10 min,,PEC,0.5 M Na2SO4,1.5 mA cm-2 at  1.6V,184.60967040024767,long termstability,,,Cu as enity-metal,https://doi.org/10.1021/acssuschemeng.3c02150
+,,WO3/CuWO4,hydrothermal method,,,,,,PEC,0.5 M Na2SO4,0.9 mA cm-2 at 1.5 V,186.01715471835112,,,,Cu as enity-metal,
+,,WO3,hydrothermal method,,,,,,PEC,0.5 M Na2SO4,0.4 mA cm-2 at  1.6V,186.01715471835112,,,,Cu as enity-metal,
+85.0,Cu3BiS3/ln0.6Cd0.4S/TiO2-Pt,,chemical bath deposition,,,,,,PEC,0.2 mol L−1 Na2HPO4/NaH2PO4solution (pH 6.5),−10.80 mA cm-2 at 0 VRHE,184.5375601979919,10h,,,Cu as enity-metal,
+,,Cu3BiS3,chemical bath deposition,,,,,,PEC,0.2 mol L−1 Na2HPO4/NaH2PO4solution (pH 6.5),-11 mA cm-2 at 0V,186.01715471835112,,,,Cu as enity-metal,
+,,BiVO4,chemical bath deposition,,,,,,PEC,0.2 mol L−1 Na2HPO4/NaH2PO4solution (pH 6.5),0 mA cm-2 at 0V,186.01715471835112,,,,Cu as enity-metal,
+,,Cu3BiS3-BiVO4,chemical bath deposition,,,100h,,,PEC,0.2 mol L−1 Na2HPO4/NaH2PO4solution (pH 6.5),,186.01715471835112,10h,,2.57%,Cu as enity-metal,
+86.0,CuInS2,,simple hydrothermal method,,,,,,PC,,,184.4654499957361,decentstability,1290 μmol g–1 h–1,,Cu as enity-metal,https://doi.org/10.1021/acsami.7b06030
+,,g-C3N4,simple hydrothermal method,,550 °C,,,,PC,,,186.01715471835112,4h,,,Cu as enity-metal,
+,,GsC,simple hydrothermal method,,room temp,1h,60 °C for 4 h,,PC,,,186.01715471835112,,,,Cu as enity-metal,
+87.0,CuBi2O4(CBO),,,,,,,,,0.1 M Na2SO4,,184.39333979348032,,,,Cu as enity-metal,https://doi.org/10.1021/acs.energyfuels.3c00731
+,,D-CBO,Drop-Casted,,80 °C,,,500 °C for 2 h,PEC,0.1 M Na2SO4,5 mA·cm–2 at 0.6 V,186.01715471835112,good,,0.61% at 0.23 V,Cu as enity-metal,
+,,H - CBO ,Hydrothermal,,140 °C,12 h,,,PEC,0.1 M Na2SO4,,186.01715471835112,,,,Cu as enity-metal,
+,,E-CBO,Electrodeposited,,,,,500 °C for 2 h,PEC,0.1 M Na2SO4,,186.01715471835112,,,,Cu as enity-metal,
+,,BiVO4,,,,,,500 °C for 30 min,PEC,0.1 M Na2SO4,1.6 mA·cm–2 at 1.23 V,186.01715471835112,,,,Cu as enity-metal,
+88.0,Cu–TiO2,,,,,,,,,,,184.32122959122455,,,,Cu as enity-metal,https://doi.org/10.1021/acsaem.2c00009
+,,TiO2,single-step coprecipitation method.,,room temp,2h,,argon at 673 K for 4 h,PC,1 M Na2SO4,,186.01715471835112,,18.09 μmol·g–1·h–1,,Cu as enity-metal,
+,,0.5Cu–TiO2,single-step coprecipitation method.,,room temp,2h,,argon at 673 K for 4 h,PC,1 M Na2SO4,,186.01715471835112,,,,Cu as enity-metal,
+,,1.0Cu–TiO2,single-step coprecipitation method.,,room temp,2h,,argon at 673 K for 4 h,PC,1 M Na2SO4,,186.01715471835112,,,,Cu as enity-metal,
+,,2.0Cu–TiO2,single-step coprecipitation method.,,room temp,2h,,argon at 673 K for 4 h,PC,1 M Na2SO4,,186.01715471835112,,twice the TiO2,,Cu as enity-metal,
+,,3.0Cu–TiO2,single-step coprecipitation method.,,room temp,2h,,argon at 673 K for 4 h,PC,1 M Na2SO4,,186.01715471835112,,,,Cu as enity-metal,
+89.0,Cu3P Nanowires,,,,,,,,EC,1 M KOH,,184.24911938896878,excellent,,,Cu as enity-metal,https://doi.org/10.1021/acssuschemeng.7b02654
+,,Cu2O,cation exchange method,,400 °C,2h,,thermal annealing,EC,1 M KOH,-10 mA cm-2 at -0.4V,186.01715471835112,,,,Cu as enity-metal,
+,,Pt/C,cation exchange method,,,,,thermal annealing,EC,1 M KOH,-50 mA cm-2 at -0.3V,186.01715471835112,excellent,,,Cu as enity-metal,
+,,Cu3P,cation exchange method,,300 °C,120 min,,thermal annealing,EC,1 M KOH,-200mA cm-2 at -0.4 V,266.0,,,,Cu as enity-metal,
+90.0,nickel–copper–phosphorus (Ni–Cu–P),,electrodeposition method,,,,room temperature,,EC,1 M KOH,10 mA cm–2,120.0,high,,high,Cu as enity-metal,https://doi.org/10.1021/acsami.8b12321
+,,,electrodeposition method,,,,room temperature,,EC,1 M KOH,100 mA cm–2,230.0,,,,Cu as enity-metal,
+,,,electrodeposition method,,,,room temperature,,EC,0.5 M H2SO4,10 mA cm–2,150.0,,,,Cu as enity-metal,
+,,NCP-0,electrodeposition method,,,,room temperature,,EC,1 M KOH,-100mA cm-2 at -0.3 V,186.01715471835112,,,,Cu as enity-metal,
+,,NCP-1,electrodeposition method,,,,room temperature,,EC,1 M KOH,-100mA cm-2 at -0.21 V,186.01715471835112,,,,Cu as enity-metal,
+,,NCP-2,electrodeposition method,,,,room temperature,,EC,1 M KOH,-100mA cm-2 at -0.19 V,240.0,,,,Cu as enity-metal,
+,,NCP-3,electrodeposition method,,,,room temperature,,EC,1 M KOH,-100mA cm-2 at -0.2 V,225.0,,,,Cu as enity-metal,
+,,NCP-4,electrodeposition method,,,,room temperature,,EC,1 M KOH,-100mA cm-2 at -0.25 V,186.01715471835112,,,,Cu as enity-metal,
+91.0,Ni–Cr@CF(Copper foam (CF)),,simple cyclic voltammetry (CV) method,,,,,,EC,1 M KOH,10 mA cm−2,144.0,2000 cycles,,largescale ,Cu as enity-metal,https://doi.org/10.1016/j.ijhydene.2020.09.026
+,,Pt/C,simple cyclic voltammetry (CV) method,,,,,,EC,1 M KOH,-70mA cm-2 at -0.2 V,186.01715471835112,,,,Cu as enity-metal,
+,,CF,simple cyclic voltammetry (CV) method,,,,,500 C,EC,1 M KOH,-10mA cm-2 at -0.5 V,160.0,,,,Cu as enity-metal,
+,,Cr@CF,simple cyclic voltammetry (CV) method,,,,,,EC,1 M KOH,-60mA cm-2 at -0.45 V,186.01715471835112,,,,Cu as enity-metal,
+,,Ni@CF,simple cyclic voltammetry (CV) method,,,,,,EC,1 M KOH,-70mA cm-2 at -0.46V,186.01715471835112,,,,Cu as enity-metal,
+,,NieCr@CF,simple cyclic voltammetry (CV) method,,,,,,EC,1 M KOH,-70mA cm-2 at -0.35 V,186.01715471835112,,,,Cu as enity-metal,
+92.0,Cu–Ru alloys,,dealloying process,,25°C,,,,EC,1.0 M KOH,10 mA cm–2,41.0,,,high,Cu as enity-metal,https://doi.org/10.1021/acsenergylett.9b02374
+,,np-Cu88Ru12,dealloying process,,,,,,EC,1.0 M KOH,-60mA cm-2 at -0.35 V,186.01715471835112,,,,Cu as enity-metal,
+,,np-Cu53Ru47,dealloying process,,,,,,EC,1.0 M KOH,-70mA cm-2 at -0.09 V,186.01715471835112,,,,Cu as enity-metal,
+,,np-Cu35Ru65,dealloying process,,,,,,EC,1.0 M KOH,-70mA cm-2 at -0.14 V,186.01715471835112,,,,Cu as enity-metal,
+,,Pt/C,dealloying process,,,,,,EC,1.0 M KOH,-60mA cm-2 at -0.1 V,33.0,,,,Cu as enity-metal,
+,,Ru/C,dealloying process,,,,,,EC,1.0 M KOH,-70mA cm-2 at -0.28 V,51.0,,,,Cu as enity-metal,
+93.0,CuxO,Cu2O,"reduction of copper iodide ,spin coating",,150 °C,10 min,,250 °C @ 1 h,PEC,0.025 M H2SO4 + urea,−13.6 mA/cm2 @ −1.4 V (RHE),200.5430694728594,30 min,,,Cu as enity-CuO,https://doi.org/10.1021/acsomega.0c02754
+,,CuO/Cu2O,"reduction of copper iodide ,spin coating",,150 °C,10 min,,300 °C @ 1h,PEC,0.025 M H2SO4 + urea,−3 mA/cm2 @ −1.4 V (RHE),202.59954561126483,34 min,,,Cu as enity-CuO,
+94.0,Cu2S-coated Cu2O,bare Cu2O CLs,"electrodeposition, thermal treatment(30 min at 200 °C)",12, 45 °C,60 min ,,,PEC,Na2SO4 0.5 M (pH = 5) ,−0.35 mA cm−2 @ –0.6 V ( Ag/AgCl),200.47095927060363,2400s,,,Cu as enity-CuO,https://iopscience.iop.org/article/10.1088/0957-4484/26/18/185401
+,,Cu2O is coated with a Cu2S ,Cu2S coating is prepared by IER,,80 °C,20 min,, 30 min at 200 °C,PEC,Na2SO4 0.5 M (pH = 5),–0.5 mA cm−2 @ –0.6 V ( Ag/AgCl),202.59954561126483,2400s,,,Cu as enity-CuO,
+,,bare Cu2O NWs,thermal treatment ,,500 °C,2 h,60 °C @ 15 min,,PEC,Na2SO4 0.5 M (pH = 6.8) ,–0.5 mA cm−2 @ –0.6 V ( Ag/AgCl),202.59954561126483,4000s,,,Cu as enity-CuO,
+,,Cu2S coated Cu2O NWs at 150 °C ,Cu2S coating is prepared by IER,,room temp,5–30 min,,30 min at 200 °C,PEC,Na2SO4 0.5 M (pH = 6.8),−1.0 mA cm−2 @ –0.6 V ( Ag/AgCl),202.59954561126483,4000s,,,Cu as enity-CuO,
+95.0,Cu2O/CuO bilayered composite photocathodes,,"electrodeposition, thermal oxidation",9.2,400 °C ,2 h,,,PEC,0.5 M Na2SO4 (pH 6),1.50 mA·cm−2 @ 0.60 V (RHE),200.39884906834786,4 h,,,Cu as enity-CuO,https://www.nature.com/articles/srep35158
+,Cu2O/CuO bilayered composite photocathodes,,"electrodeposition, thermal oxidation",9.2,400 °C ,2 h,,,PEC,1 M KOH (ph=13.8),3.15 mA·cm−2 @ 0.40 V (RHE),202.59954561126483,4 h,,high,Cu as enity-CuO,
+96.0,CuWO4,CuWO4-Cl,Hydrothermalsynthesis,,160 °C ,10 h,room temp,500 °C @ 2h,PEC,0.2 M KPi ,0.38 mA/cm2 @ 1.23 V (RHE),200.3267388660921,2400s,,"20.4%
+(saperation eff)",Cu as enity-CuO,https://doi.org/10.1021/acsami.2c13002
+,,CuWO4-Cl,Hydrothermalsynthesis,,160 °C ,10 h,room temp,500 °C @ 2h,PEC,0.2 M KPi + 0.2 M Na2SO3,1.5 mA/cm2 @ 0.5 V (RHE),202.59954561126483,,,,Cu as enity-CuO,
+,,CuWO4-OAC,Hydrothermalsynthesis,,160 °C,10 h,room temp,500 °C @ 2h,PEC,0.2 M KPi,0.21 mA/cm2 @ 1.23 V (RHE),202.59954561126483,1500s,,15.8 %,Cu as enity-CuO,
+,,CuWO4-OAC,Hydrothermalsynthesis,,160 °C,10 h,room temp,500 °C @ 2h,PEC,0.2 M KPi + 0.2 M Na2SO3,0.98 mA/cm2 @ 0.5 V (RHE),202.59954561126483,,,,Cu as enity-CuO,
+,,CuWO4-S,Hydrothermalsynthesis,,160 °C,10 h,room temp,500 °C @ 2h,PEC,0.2 M KPi,0.17 mA/cm2 @ 1.23 V (RHE),202.59954561126483,1000s,,11 %,Cu as enity-CuO,
+,,CuWO4-S,Hydrothermalsynthesis,,160 °C,10 h,room temp,500 °C @ 2h,PEC,0.2 M KPi + 0.2 M Na2SO3,0.91 mA/cm2 @ 0.5 V (RHE),202.59954561126483,,,,Cu as enity-CuO,
+97.0,Ni-CuO,Ni-CuO-S,Ni-CuO was immersed in 0.2 M Na2S,,room temp,30 min,with nitrogen,,EC,1.0 M KOH,200 mA/cm2 @ -0.28 V (RHE),54.0,30 h,0.35mmol@7000s,very high,Cu as enity-CuO,https://doi.org/10.1021/acsanm.9b01449
+,,Ni-CuO-350,,,350 °C ,20 min,room temp,,EC,1.0 M KOH,200 mA/cm2 @ -0.43 V (RHE),202.59954561126483,30 h,,,Cu as enity-CuO,
+98.0,Cu3N–CuO,CuO/NF,Insitu Formation,,300 °C,2 h,60 ℃,,EC,0.1 M KOH,-150 mA/cm2 @ -0.4 V (RHE),227.0,,,,Cu as enity-CuO,https://doi.org/10.1021/acsenergylett.9b00091
+,,CuO/FTO,Insitu Formation,,300 °C,2 h,60 ℃,,EC,0.1 M KOH,-20 mA/cm2 @ -0.5 V (RHE),426.0,,,,Cu as enity-CuO,
+,,CuO-O2/NF,Insitu Formation,,500 °C,2 h,room temp,,EC,0.1 M KOH,-250 mA/cm2 @ -0.4 V (RHE),202.59954561126483,,,,Cu as enity-CuO,
+99.0,CuO nanorods,CuO-ImBScB,Thin films of imidazolium (Im) ionic liquids with bis(salicylato)-borate (BScB) anions were grafted onto CuO nanorods.,6.4,60 ℃,2 h,,,PC,,,200.11040825932477,2 h ,1827 mmol ,,Cu as enity-CuO,https://doi.org/10.1002/cplu.201600047
+,,CuO-ImPF6,Thin films of imidazolium (Im) ionic liquids with hexafluorophosphate (PF6 - ) anions were grafted onto CuO nanorods.,6.7,60 ℃,2 h,,,PC,,,202.59954561126483,2 h,1082 mmol ,,Cu as enity-CuO,
+100.0,Cu2O,Cu2O,simple anodization and annealing procedure,8,,,,600 °C,PEC,2 M KOH,10 mA cm–2@s 0.40–0.68 V vs. RHE,25.0,50 h,,18%,Cu as enity-CuO,https://doi.org/10.1021/acs.nanolett.5b04929
+,,Cu(OH)2,,,,4 h,,600 °C,,,,202.59954561126483,,,,Cu as enity-CuO,
+101.0,CuO-NiO/CN@GP,CuO-NiO/CN@GP,,,,,,,EC,1.0 M KOH,"10 mA cm-2
+",137.5774205872571,,,,Cu as enity-CuO,https://doi.org/10.1016/j.molliq.2021.116084
+,,CuO-NiO@GP,,,,,,,EC,,"10 mA cm-2
+",140.21077834370877,,,,Cu as enity-CuO,
+,,Cu2O-Co3O4@GP,,,,,,,EC,,"10 mA cm-2
+",140.15944501037544,,,,Cu as enity-CuO,
+,,Cu2O-Co3O4/CN@GP,,,,,,,EC,,"10 mA cm-2
+",140.18277834370875,,,,Cu as enity-CuO,
+102.0,LIFT graphene/CuxO@Ni foam,,laser deposition method,,,,,,EC,1 M KOH,-100 mA cm−2 ,149.6,10 h,,,Cu as enity-CuO,https://doi.org/10.1039/D1TA01267C
+103.0,Cu2O,,electrodeposited,10,,,,,PEC,0.5 M Na2SO4,6.4 mA cm−2 @ 0 V,199.82196745030168,60h,,high,Cu as enity-CuO,10.1038/s41467-019-13987-5
+,,,,,,,,,PEC,Na3Po4 with an LCS-100solarsimulator,,202.59954561126483,,,,Cu as enity-CuO,
+104.0,Cu2O@Ni,,electrodeposition,,,,,,EC,1 M NaOH,500 mA cm−2,200.0,150 h,,,Cu as enity-CuO,https://doi.org/10.1016/j.jpowsour.2021.230235
+,,,,,,,,,EC,1 M NaOH + 0.5 M NaCl,500 mA cm−2,200.0,150 h,,,Cu as enity-CuO,
+105.0,Cu2O,,electrodeposited,,,,,,PEC,0.5 M Na2SO4,-5 mA cm-2(0 V),199.67774704579008,50 h,,,Cu as enity-CuO,https://doi.org/10.1039/C4EE02160F
+,,,,,,,,,PEC,0.1 M KH2PO4,,202.59954561126483,,,,Cu as enity-CuO,
+106.0,Cu|nanoCu2O|NiO,,chemical bath deposition ,,25 °C,,,500 C(4 h),PEC,0.1 M Na2SO4,-4.98 mA/cm2(-0.33 V),199.6056368435343,,,,Cu as enity-CuO,https://doi.org/10.1039/C2SC20874A
+107.0,Cu2O/CuO(Air),,electrochemical anodization  ,,25 °C,,,in air,PEC,0.5 M Na2SO4,−2.3 mA/cm2( 0 V),199.53352664127854,,,,Cu as enity-CuO,https://doi.org/10.1016/j.apsusc.2021.149375
+108.0,CuO/Pd,,"spin-coating,  thermal
+oxidation ",,,,,,PEC,0.2 M H2BO3 /H3BO3,,199.46141643902277,,,,Cu as enity-CuO,https://doi.org/10.1016/j.ijhydene.2014.03.084
+,,CuO films,thermal oxidation,,25 °C,,,,PEC,,,202.59954561126483,,,,Cu as enity-CuO,
+,,,550 C(4 h)  -- thermal treated    ,,,,,,PEC,,,202.59954561126483,,,,Cu as enity-CuO,
+109.0,Cu2O decorated with Al/NiS,,(SILAR) method,,,,,,PEC,0.1 M Na2SO4,-6.5 mA cm−2,199.38930623676697,,high,,Cu as enity-CuO,https://doi.org/10.1016/j.cej.2019.122655
+,,Al layer,magnetronsputtering (MS) method,,,,,,PEC,,,202.59954561126483,,,,Cu as enity-CuO,
+,,Al/Cu2O composite,electrodeposition method,,,5m,in air,,PEC,,-5.5 mA cm−2,202.59954561126483,,,,Cu as enity-CuO,
+110.0,CuO nanorod arrays,,Gas-phase cation exchange method ,,450 °C,1 °C min−1,,,PEC,1 M Na2SO4,2.42 mA cm−2( 0 V),199.3171960345112,1200s,high,,Cu as enity-CuO,https://doi.org/10.1039/D2RA07648A
+,,ZnO nanorod,hydrothermal method,,90 °C,6 h,,,,,,202.59954561126483,,,,Cu as enity-CuO,
+111.0,CuO nanowires,,facile thermal-treatment,,,,60 °C,,PEC,1.0M Na2SO4,1.4 mA cm−2(0 V),199.24508583225543,,high,,Cu as enity-CuO,https://doi.org/10.1016/j.apcatb.2018.08.070
+112.0,CuO thin film,,Sputtering,,25 °C,,,550 °C,PEC,0.1 M Na2SO4,1.68 mA cm−2(0 V),199.17297562999966,,,,Cu as enity-CuO,https://doi.org/10.1039/C6RA03383K
+113.0,CuO/Ag2WO4-5,,i)hydrothermal ii)SILAR method,,,,60 °C,120 °C(1 m),PEC,1.0 M NaOH,−1.1 mA cm−2(−0.55 V),199.10086542774388,,high,,Cu as enity-CuO,https://doi.org/10.1039/D3RA00867C
+114.0,CuxO@Cu,,hydrothermal,,,,,,EC,,50 mA cm–2,530.0,,,,Cu as enity-CuO,https://doi.org/10.1021/acs.inorgchem.1c03830
+,,CuS,,,150°C,5 h,,,EC,,,202.59954561126483,,,,Cu as enity-CuO,
+,,CuO,,,80°C,30m,25°C(12h),,EC,,,202.59954561126483,,,,Cu as enity-CuO,
+115.0,Cu2(1)O,,electrochemical deposition,,60°C,,,,EC,,2.5 mA/cm2,198.95664502323234,,,,Cu as enity-CuO,https://doi.org/10.1007/s100190050056
+116.0,Hexa-CuSe-1.04,,solvo-hydrothermal,,180 ˚C,18 h,70 °C(36 h),,EC,1 M KOH,-300 mA/cm2,61.0,24 h.,,,Cu as enity-CuO,https://doi.org/10.1016/j.ijhydene.2023.01.020
+,,,,,,,,,EC,0.5 M H2SO4,-600 mA/cm2,258.0,24 h.,,,Cu as enity-CuO,
+117.0,Cu2O Nanowire,,galvanostatic anodization,,25 °C,180s,in air,500 °C(4h),PEC,0.5 M Na2SO4 and 0.1 M K2HPO4,−2.46 mA/cm2( −0.3 V),198.8124246187208,,,,Cu as enity-CuO,https://doi.org/10.1021/acsaem.2c03122
+,,Cu(OH)2,galvanostatic anodization,,25 °C,180s,in air,,PEC,,,202.59954561126483,,,,Cu as enity-CuO,
+,,Cu2O Layer,electrodeposited,,80 °C,300s,,,PEC,,,202.59954561126483,,,,Cu as enity-CuO,
+118.0,Cu2O/CuO,,thermal oxidation,,400 °C,2 and 4 h,,,PEC,0.5 M Na2SO4(pH = 6),-0.4 mA cm−2,198.74031441646503,4 h,high,,Cu as enity-CuO,10.1038/srep35158
+,,Cu2O films,chronoamperometric deposition method,,,,,,PEC,,,202.59954561126483,,,,Cu as enity-CuO,
+119.0,CuO,,magnetronsputtering and rapid thermal annealing treatment,,,,,,PEC,0.1 M Na2SO4,-2.5 mA/cm2(0 V),198.66820421420925,,,,Cu as enity-CuO,https://doi.org/10.1021/acsami.5b09613
+120.0,CuO/NiOx,,Electrochemical deposition,,400 °C,1h,,,PEC,0.5 mol L−1 Na2SO4,− 1.02 mA cm−2(0V),198.59609401195348,40 min,,,Cu as enity-CuO,https://doi.org/10.1007/s10008-020-04513-5
+,,Cu2O films,,,400 °C,4 h,,,PEC,,− 0.92 mA cm−2(0v),202.59954561126483,,,,Cu as enity-CuO,
+121.0,O-rich CuO thin film,,co-sputter of Cu,,,,,550°C(1 m),PEC,0.1 M Na2SO4(pH 5.84),3.1 mA/cm2(0V),198.5239838096977,,,,Cu as enity-CuO,https://doi.org/10.1021/acsami.7b02685
+122.0,Cu2O/CuO,,electrodeposited,,400 °C,1 h,,,PEC,50 mM Na2SO4( pH 6.82),-1.54 mA cm-2(0 V),198.45187360744194,,,,Cu as enity-CuO,https://doi.org/10.1039/C1JM14478B
+123.0,Cu2O,,sol–gelspin-coating process,,25 °C,,100 °C(2 m),550°C(90m),PEC,0.1 M Na2SO4(5.84),0.28 mA cm2(0.05 V),198.37976340518617,300s,,,Cu as enity-CuO,https://doi.org/10.1039/C4CP03241A
+,,CuO thin films,sol–gelspin-coating process,,25 °C,,100 °C(2 m),550°C(10 m),PEC,,0.35 mA cm2(0.05 V),202.59954561126483,300s,,,Cu as enity-CuO,
+124.0,Co9S8/Cu2S/CF,,electrodeposition,,,,Dried in air,,EC,1 M KOH,10 mA cm–2(1.6 V),165.0,24 h,high,,Cu as enity-CuO,https://doi.org/10.1021/acsami.0c20820
+,,Cu2S/CF,chemical method,,,,Dried in air,,EC,1 M KOH,10 mA cm–2(1.6 V),202.59954561126483,,,,Cu as enity-CuO,
+,,Co9S8/CF,electrodeposition,,,,Dried in air,,EC,1 M KOH,10 mA cm–2(1.6 V),202.59954561126483,,,,Cu as enity-CuO,
+125.0,CuO nanoleaves,,Aqueoussolution growth,,90 °C,4h,Dried in air,,PEC,0.1 M Na2SO4(5.8),1.5 mA cm−2(0 V),198.23554300067462,,,,Cu as enity-CuO,https://doi.org/10.1016/j.jphotochem.2017.01.014
+126.0,Cu2V2O7,,electrostaticspray deposition,,,,,500°C,PEC, 0.1 M Borate buffer(pH = 9.2) and 0.1 M Na2SO3,0.65 mA⋅cm -2,198.16343279841885,,,,Cu as enity-CuO,https://doi.org/10.1016/j.jallcom.2017.02.302
+127.0,b-Cu2V2O7,,faciles-SILAR,,25 °C,,,,PEC,0.1 M NaBi(pH 9.0),70 mA cm–2(0.5 V),198.09132259616308,,,,Cu as enity-CuO,https://doi.org/10.1016/j.matlet.2019.126842
+128.0,GO–Cu2O,,electrochemical deposition,,60 °C,1h,,,PEC,0.5 M Na2SO4,−1.20 mA/cm2 at 0V,198.01921239390728,lowstability,,,Cu as enity-CuO,https://doi.org/10.1021/acsomega.3c03585
+,,Cu2O,electrochemical deposition,,,,,,PEC,0.5 M Na2SO4,−0.4 mA/cm2 at 0 V,202.59954561126483,,,low,Cu as enity-CuO,
+129.0,GaN/Cu2O,,Electrodeposition,,,,,,PEC,0.5 M pH 7 Na2SO4,,197.9471021916515,excellent ,,good,Cu as enity-CuO,https://doi.org/10.1021/acs.langmuir.3c01944
+,,Cu2O,Electrodeposition,,40 °C,,,,PEC,0.5 M pH 7 Na2SO4,,202.59954561126483,,,,Cu as enity-CuO,
+,,GaN,,,410 °C,15 min,,,PEC,0.5 M pH 7 Na2SO4,,202.59954561126483,,,,Cu as enity-CuO,
+130.0,Cu2O/CuO,,Electrodeposition,,,1h,,400 °C in N2 environment for 2 h,PEC,1 M Na2SO4,7.5 mAcm–2 at -0.1V,197.87499198939574,50h,,,Cu as enity-CuO,https://doi.org/10.1021/acsaem.9b01290
+,,Cu2O,Electrodeposition,,40 °C,1000 to 6000s,,400 °C in N2 environment for 2 h,PEC,1 M Na2SO4,7.5 mAcm–2 at -0.1V,202.59954561126483,better photostability,,,Cu as enity-CuO,
+,,Cu2O/CuO/C,Electrodeposition,,,,,,PEC,1 M Na2SO4,,202.59954561126483,,initial 5 h was 48 μmol,,Cu as enity-CuO,
+131.0,Cu2O/ZnO/TiO2,,scalablesynthesis techniques,,200 °C,,,,PEC,0.1 M NaPi electrolytesolution (pH = 5),-0.4 mA/cm2 at -0.4V,197.80288178713997,poor,,high,Cu as enity-CuO,https://doi.org/10.1021/acsaem.0c01198
+,,Cu2O,scalablesynthesis techniques,,,,,,PEC,0.1 M NaPi electrolytesolution (pH = 5),-2.75 mAcm-2 at -0.4V,202.59954561126483,,,,Cu as enity-CuO,
+,,Cu2O/ZnO,scalablesynthesis techniques,,,,,,PEC,0.1 M NaPi electrolytesolution (pH = 5),-2.5 mAcm-2 at -0.4V,202.59954561126483,,,,Cu as enity-CuO,
+132.0,CuO,,chemical bath method,,,,, 450 oC for 2 h,PEC,0.1 M K2S2O8+0.5 M Na2SO4,-10 mA cm-2 ,197.73077158488414,,,,Cu as enity-CuO,https://doi.org/10.1002/ange.201909182
+,,CuO with Au,thermal evaporation process,,35 oC,2h,,,PEC,0.1 M K2S2O8+0.5 M Na2SO4,,202.59954561126483,,,,Cu as enity-CuO,
+133.0,CuO ,,Aqueoussolution growth,,,,nitrogen gas,,PEC,0.1 M Na2SO4 ,−1.5 mA cm−2 at 0 V,197.65866138262837,,,,Cu as enity-CuO,https://doi.org/10.1002/adma.202007285
+134.0,Octahedral flower-like CuO nanocrystals,,Coordination-deposition method,,,,60 °C in air,,PEC,,−58.8 µA cm−2 at 0.3 V,197.5865511803726,,,,Cu as enity-CuO,10.1016/j.msec.2019.110011
+135.0,CuO nanostructured,,Chemical bath deposition (CBD),,300 C,,oven at 60 C,,PEC,0.5 M Na2SO4,−1.3 mA cm−2 at 0 V,197.51444097811682,20 min,,,Cu as enity-CuO,10.1016/j.jallcom.2016.11.374
+136.0,CuO nanoparticles,,Electrodeposition with further annealing,,,600s,oven at 60 °C for 24 h.,550 °C for 2 h,PEC,0.5 M Na2SO4,−0.55 mA cm−2 at 0.5 V,197.44233077586105,90%.,,91.90%,Cu as enity-CuO,https://doi.org/10.1016/j.ijhydene.2017.06.003
+137.0,Tree branch-shaped CuO,,Hybrid microwave annealing (HMA),,,,,10 min ,PEC,0.5 M Na2SO4 at pH 6.,−4.4 mA cm−2 at 0 V,197.37022057360528,,,highly,Cu as enity-CuO,https://doi.org/10.1039/C5NR00208G
+138.0,Cu2O/Cu2S-ZnO/CdS,,electrochemical deposition method,,,,,,PEC,0.5 mol/L Na2SO4,,197.2981103713495,,,high,Cu as enity-CuO,https://doi.org/10.1016/j.jallcom.2016.12.261
+,,Cu2O/Cu2S,electrochemical deposition method,,,,,,PEC,0.5 mol/L Na2SO4,"-3.6  mA/cm2 at -0.6V
+",202.59954561126483,,,,Cu as enity-CuO,
+,,ZnO/CdS,hydrothermal method,,,,dried naturally,,PEC,0.5 mol/L Na2SO4,-1.49 mA/cm2 at 0 V,202.59954561126483,,,,Cu as enity-CuO,
+139.0,C-doped CuO/g-C3N4,,one-pot method,,,2h,,500 °C,PEC,,,197.22600016909374,180sec,3.13 µmol h-1cm−2,,Cu as enity-CuO,https://doi.org/10.1016/j.apsusc.2020.147271
+,,CuO/CN,one-pot method,,,,,,PEC,,−2.06 mA cm−2 at 0 V,202.59954561126483,,2.67 µmol h-1cm−2,,Cu as enity-CuO,
+,,C-CuO/CN,one-pot method,,,,,,PEC,,−2.85 mA cm−2 at 0 V,202.59954561126483,,3.91 µmol h−1 cm−2,,Cu as enity-CuO,
+140.0,CuO/g-C3N4,,impregnating way,,,,,,PC,,,197.15388996683797,high,130.1 μmol·g−1·h−1,,Cu as enity-CuO,https://doi.org/10.1016/j.fuel.2023.129224
+,,g-C3N4,impregnating way,,,,,,PC,,,202.59954561126483,,2.82μmol·g−1·h−1,,Cu as enity-CuO,
+,,1.5 %CuO/CN,impregnating way,,,,,,PC,,,202.59954561126483,4 cycles,,,Cu as enity-CuO,
+141.0, Mn2O3/CuO-VOP,,ultrasonication process,,50 °C,30 min ,,,EC,1 M NaOH(pH = 12.6),-100 mA cm-2 at -0.5V,220.0,high,,high,Cu as enity-CuO,https://doi.org/10.1021/acsami.2c16873
+,,VOP,ultrasonication process,,100 °C,20 h,overnight at 60 °C,,EC,1 M NaOH(pH = 12.6),-100 mA cm-2 at -0.7V,202.59954561126483,,,,Cu as enity-CuO,
+,,Mn2O3/CuO,ultrasonication process,,,,100 °C for 2 h,,EC,1 M NaOH(pH = 12.6),-100 mA cm-2 at -0.65V,310.0,,,,Cu as enity-CuO,
+,,Mn2O3,ultrasonication process,,,,,,EC,1 M NaOH(pH = 12.6),-100 mA cm-2 at -0.9V,550.0,low ,,,Cu as enity-CuO,
+142.0,Ni-Cu2O,,simple hydrothermal method,,90 ℃,80 min ,60 ℃ for 10 h,,PEC,0.5 M Na2SO4 (pH = 6.82),0.83 mA cm−2,197.00966956232642,excellent,,,Cu as enity-CuO,
+143.0,Ru/Cu2+1O,,electrochemical deposition,,120 ℃,12 h,15 mins in vacuum dried,,EC,1 M KOH,10 mA cm−2 at 1.53V,32.0,,,,Cu as enity-CuO,https://doi.org/10.1002/chem.201904337
+,,0.5 % Ru/Cu2+1O NT/CuF,electrochemical deposition,,120 ℃,12h,15 mins in vacuum dried,,EC,1 M KOH,-100 mA cm-2 at -0.21V,202.59954561126483,6h,,,Cu as enity-CuO,
+,,1% Ru/Cu2+1O NT/CuF,electrochemical deposition,,120℃,12h,15 mins in vacuum dried,,EC,1 M KOH,-100 mA cm-2 at -0.19V,202.59954561126483,6h,,,Cu as enity-CuO,
+,,1.5% Ru/Cu2+1O NT/CuF,electrochemical deposition,,120 ℃,12h,15 mins in vacuum dried,,EC,1 M KOH,-100 mA cm-2 at -0.17V,202.59954561126483,6h,,,Cu as enity-CuO,
+,,Pt/C/CuF,electrochemical deposition,,120 ℃,12h,15 mins in vacuum dried,,EC,1 M KOH,-100 mA cm-2 at -0.15V,202.59954561126483,6h,,,Cu as enity-CuO,
+144.0,(CuO-Cu9S5@NF),,electrochemical method,,,12h,,,EC,1 M KOH,-150 mA cm–2 at -0.3 V.,308.0,latticestable,,,Cu as enity-CuO,https://doi.org/10.1021/jacsau.3c00703
+,,Cu9S5,solvothermal method,,200 °C,15h,,,EC,1 M KOH,-75 mA cm–2 at -0.43 V,216.0,,,,Cu as enity-CuO,
+,,Cu9S5@NF,,,,,,,EC,1 M KOH,-50 mA cm–2 at -0.4 V,216.0,,,,Cu as enity-CuO,
+,,CuO@NF,solvothermal method,,,,,,EC,1 M KOH,-60 mAcm-2 at -o.4V,275.0,,,,Cu as enity-CuO,
+145.0,Cu1-xDyxO ,undopped CuO,solution combustion technique,,100 °C.,30 min,room temp,,EC,1 M KOH,- 121 mA.cm-2 @ -0.8 V (RHE),260.0,,,,dopped CuO,https://doi.org/10.1016/j.ijhydene.2021.06.014
+,,1% Dy depped CuO,solution combustion technique,,100 °C.,30 min,room temp,,EC,1 M KOH,- 180 mA.cm-2 @ -0.8 V (RHE),180.0,10 h,,,dopped CuO,
+,,2% Dy depped CuO,solution combustion technique,,100 °C.,30 min,room temp,,EC,1 M KOH,- 190 mA.cm-2 @ -0.8 V (RHE),219.0,,,,dopped CuO,
+,,3% Dy depped CuO,solution combustion technique,,100 °C.,30 min,room temp,,EC,1 M KOH,- 200 mA.cm-2 @ -0.8 V (RHE),198.0,,,,dopped CuO,
+146.0,Cu2O with Ni-doped,Ni-CuBTC,solvothermal and ion-exchange.,,,,,,PEC,photocathode,−1.51 mA/cm2(0 VRHE.),199.74394876354404,78%,,,dopped CuO,https://doi.org/10.1016/j.ijhydene.2023.01.145
+,,CuBTC,,,,,,,PEC,,−1.16 mA/cm2,205.62226562150556,,,,dopped CuO,
+,,Cu2O,,,,,,,PEC,,−0.45 mA/cm2(0 VRHE.),205.62226562150556,,,,dopped CuO,
+147.0,1% La doped CuO,1% La doped CuO,co-precipitation method,,,,,,EC,1.0 M KOH,10 mAcm−2(1.6 V),199.67183856128827,13.5 h.,,,dopped CuO,https://doi.org/10.1016/j.ijhydene.2020.06.240
+148.0,(doped)PEDOT:PSS/CuO/MoS2,,electrodeposition,,,,60 °C(10 m),,PEC,0.5 M Na2SO4,– 2.26 mA/cm2(−0.6 V),199.5997283590325,,,,dopped CuO,https://doi.org/10.1016/j.susmat.2023.e00749
+,,PEDOT:PSS/CuO,electrodeposition,,25 °C,,in air,450 °C(2 h ),PEC,,,205.62226562150556,,,,dopped CuO,
+,,PEDOT:PSS,spin-coating,,,,60 °C(10 m),,PEC,,,205.62226562150556,,,,dopped CuO,
+149.0,Cu-doped NiO,,hydrothermal and precipitation,,140 °C,12 h,100 °C,450 °C,EC,1M KOH,0.09 mA cm-2,199.52761815677673,,,,dopped CuO,https://doi.org/10.1016/j.jallcom.2017.12.144
+150.0,doped CuCl/CuO(Mn)-NF,,electrodeposition method,,25 °C,,,,EC,,10 mA cm−2(1.66V),199.45550795452095,24h,high,,dopped CuO,https://doi.org/10.1002/asia.202100616
+151.0,Ru/Cu doped RuO2 (S),s-400-H,thermolysis of Ru-modified Cu-BTC ,,400 °C.,24 h,vacuum drying @ 24h,700 °C for 120 min,EC,1 M KOH,-240 mA cm−2 @ -0.3 V (RHE),28.0,4500 cycles,,high,metal dopped,https://doi.org/10.1002/smll.201803009
+,,S-F-400,S immersed in FeCl3 aqsolution,, 400 °C ,,,,EC,1 M KOH,-210 mA cm−2 @ -0.3 V (RHE),41.0,,,,metal dopped,
+152.0,CuOx/TiO2-ratio of the amount of Cu to TiO2,CuOx/TiO2-1,impregnation method,,90 °C ,2 h,80 °C @ 12 h,,PC,,,143.62489350797168,20 min,,RhB degradation rate of 99%,metal dopped,https://doi.org/10.1021/acsomega.2c07364
+,,CuOx/TiO2-0.5,impregnation method,,90 °C,2 h,80 °C @ 12 h,,PC,,,149.93587157946786,20 min,,,metal dopped,
+,,CuOx/TiO2-2,impregnation method,,90 °C,2 h,80 °C @ 12 h,,PC,,,149.93587157946786,1 h,,,metal dopped,
+,,CuOx/TiO2-3,impregnation method,,90 °C,2 h,80 °C @ 12 h,,PC,,,149.93587157946786,1 h,,,metal dopped,
+153.0,"Ta2O5/SrZrO3
+cocatalyst-RuO2/CuxO",SrZrO3,thermally treated,,1100 °C,12 h,,,PEC,0.5 M Na2SO4,0.4 mA/cm2 @ 0.3 V (Ag/AgCl),143.5527833057159,,132 μmol g–1 h–1,0.01%(STH),metal dopped,https://doi.org/10.1021/acsami.2c02520
+,,3%Ta2O5/SrZrO3,thermally treated,,1100 °C,12 h,,,PEC,0.5 M Na2SO4,0.35 mA/cm2 @ 0.3 V (Ag/AgCl),149.93587157946786,,1297 μmol g–1 h–1,0.10%,metal dopped,
+,,1%RuO2/1%CuxO/3%Ta2O5/SrZrO3,Solidstate reaction/impregnation,,80 °C ,4 h,80 °C for 4 h,400 °C for 2 h,PEC,0.5 M Na2SO4,,149.93587157946786,6 h,3250 μmol g–1 h–1,0.26%,metal dopped,
+,,0.1%RuO2/1%CuxO/3%Ta2O5/SrZrO3,Solidstate reaction/impregnation,,80 °C ,4 h,80 °C for 4 h,400 °C for 2 h,PEC,0.5 M Na2SO4,10.4 mA/cm2 @ 0.3 V (Ag/AgCl),149.93587157946786,6 h,5164 μmol g–1 h–1,0.40%,metal dopped,
+,,0.01%RuO2/1%CuxO/3%Ta2O5/SrZrO3,Solidstate reaction/impregnation,,80 °C ,4 h,80 °C for 4 h,400 °C for 2 h,PEC,0.5 M Na2SO4,,149.93587157946786,6 h,4000 μmol g–1 h–1,0.29%,metal dopped,
+,,1%RuO2/3%Ta2O5/SrZrO3,Solidstate reaction/impregnation,,80 °C ,4 h,80 °C for 4 h,400 °C for 2 h,PEC,0.5 M Na2SO4,4 mA/cm2 @ 0.3 V (Ag/AgCl),149.93587157946786,3 h,4600 μmol g–1 h–1,0.39 %,metal dopped,
+,,1%CuxO/3%Ta2O5/SrZrO3,Solidstate reaction/impregnation,,80 °C ,4 h,80 °C for 4 h,400 °C for 2 h,PEC,0.5 M Na2SO4,2 mA/cm2 @ 0.3 V (Ag/AgCl),149.93587157946786,3 h,3000 μmol g–1 h–1,0.26%,metal dopped,
+154.0,"M (M = Ag, Cu) NPs/AgTaO3",Cu NPs/AgTaO3,conventionalsolid-state reaction,,900 °C ,24 h,,,PC,0.5 M Na2SO3,,143.48067310346013,3 h,38 μmol·m−2h−1,0.14%,metal dopped,https://doi.org/10.1016/j.ijhydene.2020.01.242
+,,1%Cu-AgTaO3,fast in-situ photoreduction method,,,, 60 °C for 6 h,,PC,0.5 M Na2SO3,,149.93587157946786,3 h,215 μmol·m−2h−1,0.79%,metal dopped,
+,,2%Cu-AgTaO3,fast in-situ photoreduction method,,,, 60 °C for 6 h,,PC,0.5 M Na2SO3,,149.93587157946786,3 h,1133 μmol·m−2h−1,4.19%,metal dopped,
+,,3%Cu-AgTaO3,fast in-situ photoreduction method,,,, 60 °C for 6 h,,PC,0.5 M Na2SO3,,149.93587157946786,3 h,186 μmol·m−2h−1,0.68%,metal dopped,
+155.0,Type-II p-Cu2S@n-CdS ,Cu2S@CdS-1,"solvothermal method, Cd : Cu = 1:0.2 ",,80 °C,8 h,,,PC,0.2 M Na2SO4,,143.40856290120436,7 cycles,6.03 mmol h−1 g−1,,metal dopped,https://doi.org/10.1016/j.ijhydene.2023.10.227
+,,Cu2S@CdS-2,"solvothermal method, Cd : Cu =1:0.3",,80 °C,8 h,,,PC,0.2 M Na2SO4,,149.93587157946786,7 cycles,6.48 mmol h−1 g−1,,metal dopped,
+,,Cu2S@CdS-3,"solvothermal method, Cd : Cu =1:0.5",,80 °C,8 h,,,PC,0.2 M Na2SO4,,149.93587157946786,7 cycles,10 mmol h−1 g−1,,metal dopped,
+,,Cu2S@CdS-4,"solvothermal method, Cd : Cu =1:0.7",,80 °C,8 h,,,PC,0.2 M Na2SO4,,149.93587157946786,7 cycles,8.5 mmol h−1 g−1,,metal dopped,
+,,Cu2S@CdS-5,"solvothermal method, Cd : Cu =1:1",,80 °C,8 h,,,PC,0.2 M Na2SO4,,149.93587157946786,7 cycles,4.85 mmol h−1 g−1,,metal dopped,
+156.0,CuxCd1−xS ,"Cu–CdS-1, x = 5 %","solvothermal method, 0.0075 g copper acetate",,160 °C,8 h,60 °C for 24 h,,PC,0.2 M Na2SO4,,143.3364526989486,7 cycles,10.5 mmol h−1 g−1,,metal dopped,https://doi.org/10.1016/j.ijhydene.2023.10.227
+,,"Cu–CdS-2 , x=10 %","solvothermal method, 0.0149 g copper acetate",,160 °C,8 h,60 °C for 24 h,,PC,0.2 M Na2SO4,,149.93587157946786,7 cycles,12.1 mmol h−1 g−1,,metal dopped,
+,,"Cu–CdS-3, x=30 % ","solvothermal method, 0.0449 g copper acetate",,160 °C,8 h,60 °C for 24 h,,PC,0.2 M Na2SO4,,149.93587157946786,7 cycles,8.4 mmol h−1 g−1,,metal dopped,
+,,"Cu–CdS-4, x=50%","solvothermal method, 0.0748 g copper acetate",,160 °C,8 h,60 °C for 24 h,,PC,0.2 M Na2SO4,,149.93587157946786,7 cycles,6.3 mmol h−1 g−1,,metal dopped,
+,,CdS,,,160 °C,20 h,60 °C for 24h,,PC,0.2 M Na2SO4,,149.93587157946786,7 cycles,1.2 mmol h−1 g−1,,metal dopped,
+157.0,Cu doped Zn0.3Cd0.7S,Cu doped Zn0.3Cd0.7S,hydrothermal treatment,6,80 °C for 30–60 min,,100 °C overnight,,PEC,0.1 M Na2SO4,,143.26434249669282,long-termstability,,,metal dopped,https://doi.org/10.1021/acssuschemeng.5b01795
+158.0,"(In, Cu) Co-doped ZnS",4In4CuZnS,sonochemical approach,3,15 C,1 h,60 C,,PEC,0.1 M Na2S,12.2 mA cm−2 @1.1 V,143.19223229443705,good,1189.4 μmol h−1 g−1.,,metal dopped,https://doi.org/10.1016/j.ijhydene.2018.02.112
+,,4In4CuZnS,sonochemical approach,,,360 min,,,PC,0.1 M K4Fe(CN)6,,149.93587157946786,good,752.7 mmol h-1 g-1,,metal dopped,
+159.0,"Cu-doped flower-like hematite
+(α-Fe2O3) nanostructures",α-Fe2O3 (1 mol% Cu2þ),hydrothermal method,3,600 °C,,,,PEC,,−5.34 mA cm−2(−0.6 V ),143.12012209218128,,,inpurity,metal dopped,https://doi.org/10.1016/j.jpcs.2016.07.014
+,,α-Fe2O3 (1 mol% Cu2þ),hydrothermal method,,,,,,PEC,,-0.7 mA cm2 at -0.6 V vs. RHE,149.93587157946786,,,,metal dopped,
+160.0,Cu doped Zn0.3Cd0.7S,Cu doped Zn0.3Cd0.7S,hydrothermal treatment,6,80 °C for 30–60 min,,100 °C overnight,,PEC,0.1 M Na2SO4,,143.0480118899255,,,,metal dopped,https://doi.org/10.1021/acssuschemeng.5b01795
+161.0,P-doped CoCu,P-doped CoCu,gelation and in-situ P doping process,,,,,,EC,1 M KOH,10 mA·cm−2(1.57 V),74.0,,,,metal dopped,https://doi.org/10.1016/j.electacta.2022.141075
+162.0,Ru doped Cu,Ru doped Cu,,7,,,,,EC,,10 mA cm-2,142.90379148541396,,,,metal dopped,https://doi.org/10.1016/j.nanoen.2021.106763
+163.0,Ni-O-VOxsites into Cu-doped,Ni(Cu)VOx,facile electrodeposition,>7,,,dried in air,,EC,1.0 M KOH,10 mA cm−2,21.0,,,,metal dopped,https://www.nature.com/articles/s41467-020-16554-5
+,,Ni(Cu) ,,,,,,,EC,,10 mA cm−2,49.0,,,,metal dopped,
+,,NiVOx,,,,,,,EC,,10 mA cm−2,49.0,,,,metal dopped,
+,,Ni,,,,,,,EC,,10 mA cm−2,87.0,,,,metal dopped,
+,,Pt/C,,,,,,,EC,,10 mA cm−2,15.0,,,,metal dopped,
+164.0,Cu-doped g-C3N4,Cu-doped g-C3N4,synthetic approach,<7,,43 h.,,,EC,,10 mA cm−2,390.0,good,,,metal dopped,https://doi.org/10.1016/j.apsusc.2015.08.197
+165.0,Cu-Doped ZnIn2S4,Cu-Doped ZnIn2S4,facile hydrothermal method,,160 °C for 12 h,,"dried in a vacuum at 
+80 °C",,PC,,,142.6874608786466,,,,metal dopped,https://doi.org/10.1021/jp804525q
+166.0,Cu-dopedsnCo,Cu-dopedsnCo,hydrothermal method,,20 h at 200 °C,,45 °C for 5 h,500 °C,EC,1 M KOH,10 mA/cm2(0.31 V),142.61535067639082,high,,,metal dopped,https://link.springer.com/article/10.1007/s10934-021-01084-2
+167.0,doped Cu–Ni–P/NF,,hydrothermal,,350 °C,120 min,,,EC,1 M KOH,-190 mA cm−2,52.0,,,,metal dopped,https://doi.org/10.1039/D0DT04179C
+168.0,Ru-Doped CuO/MoS2,,hydrothermal method,,80°C,3h,60 °C for 24h,,EC,1.0 M KOH,-50 mA cm-2 at -0.4V,198.0,10h,,high,metal dopped,https://doi.org/10.1021/acsanm.1c00791
+,,MSC,hydrothermal method,,180°C,48h,60 °C under vacuum,,EC,1.0 M KOH,-50 mA cm-2 at -0.49V,238.0,10h,,,metal dopped,
+,,MS,hydrothermal method,,200°C,24h,60 °C under vacuum,,EC,1.0 M KOH,-45 mA/cm-2 at -0.51V,241.0,,--,,metal dopped,
+,,Pt/C,hydrothermal method,,80°C,,60 °C under vacuum,,EC,1.0 M KOH,-50 mA cm–2 at -0.25 V,85.0,,,,metal dopped,
+169.0,Cu2OxS1–x(doped),,electrochemical method,,,,room temperature.,,EC,0.5 M H2SO4,-100 mA cm-2 at -0.12V,40.0,1000 cycles,,,metal dopped,https://doi.org/10.1021/acsami.7b16280
+,,Cu,,,,,,,EC,0.5 M H2SO4,-10 mA cm–2 at -0.41,378.0,,,,metal dopped,
+,,Cu2S/Cu,electrochemical method,,25oC,24 h,nitrogen gas flow.,,EC,0.5 M H2SO4,-100 mA cm-2 at -o.39V,250.0,,,,metal dopped,
+,,Cu2O/Cu,electrochemical method,,,,,600oC for 4h,EC,0.5 M H2SO4,-100 mA cm-2 at -o.39V,178.0,,,,metal dopped,
+170.0,"(Mo, W)-Doped Cu11V6O26",,,,,,,,,,,142.32690986736773,,,,metal dopped,https://doi.org/10.1021/acs.chemmater.7b03587
+,,Mo:Cu11V6O26,electrochemical deposition,,80 °C,,,500 °C for 3 h,PEC,0.1 M H3BO3( pH 9.2) +0.1 M (pH 13) KOH,100 mA cm-2 at 1.79V,149.93587157946786,2h,,,metal dopped,
+,,W:Cu11V6O26 (red),electrochemical deposition,,,,,,PEC,0.1 M H3BO3( pH 9.2) +0.1 M (pH 13) KOH,200 mA cm-2 at 1.79V,149.93587157946786,2h,,,metal dopped,
+,,Cu11V6O26,electrochemical deposition,,,,,,PEC,0.1 M H3BO3( pH 9.2) +0.1 M (pH 13) KOH,25 mA cm-2 at 1.79V,149.93587157946786,,,,metal dopped,
+171.0,(doped)FeCu@BNPCNS,,,,,,,,EC,1 M KOH,1.613 V at 10 mA cm−2,58.0,,,,metal dopped,https://doi.org/10.1016/j.jpcs.2023.111812
